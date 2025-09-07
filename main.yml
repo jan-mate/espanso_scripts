@@ -1,0 +1,2253 @@
+matches:
+  - triggers: ["AA'", "AA*", "AA@"]
+    replace: "𝔸"
+  - triggers: ["Alpha'", "Alpha*", "Alpha@"]
+    replace: "Α"
+  - triggers: ["BB'", "BB*", "BB@"]
+    replace: "𝔹"
+  - triggers: ["Beta'", "Beta*", "Beta@"]
+    replace: "Β"
+  - triggers: ["CC'", "CC*", "CC@"]
+    replace: "ℂ"
+  - triggers: ["Chi'", "Chi*", "Chi@"]
+    replace: "Χ"
+  - triggers: ["DD'", "DD*", "DD@"]
+    replace: "𝔻"
+  - triggers: ["Delta'", "Delta*", "Delta@"]
+    replace: "Δ"
+  - triggers: ["EE'", "EE*", "EE@"]
+    replace: "𝔼"
+  - triggers: ["Epsilon'", "Epsilon*", "Epsilon@"]
+    replace: "Ε"
+  - triggers: ["Eta'", "Eta*", "Eta@"]
+    replace: "Η"
+  - triggers: ["FF'", "FF*", "FF@"]
+    replace: "𝔽"
+  - triggers: ["GG'", "GG*", "GG@"]
+    replace: "𝔾"
+  - triggers: ["Gamma'", "Gamma*", "Gamma@"]
+    replace: "Γ"
+  - triggers: ["HH'", "HH*", "HH@"]
+    replace: "ℍ"
+  - triggers: ["II'", "II*", "II@"]
+    replace: "𝕀"
+  - triggers: ["Im'", "Im*", "Im@"]
+    replace: "ℑ"
+  - triggers: ["Iota'", "Iota*", "Iota@"]
+    replace: "Ι"
+  - triggers: ["JJ'", "JJ*", "JJ@"]
+    replace: "𝕁"
+  - triggers: ["KK'", "KK*", "KK@"]
+    replace: "𝕂"
+  - triggers: ["Kai'", "Kai*", "Kai@"]
+    replace: "Ϗ"
+  - triggers: ["Kappa'", "Kappa*", "Kappa@"]
+    replace: "Κ"
+  - triggers: ["LL'", "LL*", "LL@"]
+    replace: "𝕃"
+  - triggers: ["Lambda'", "Lambda*", "Lambda@"]
+    replace: "Λ"
+  - triggers: ["MM'", "MM*", "MM@"]
+    replace: "𝕄"
+  - triggers: ["Mu'", "Mu*", "Mu@"]
+    replace: "Μ"
+  - triggers: ["NN'", "NN*", "NN@"]
+    replace: "ℕ"
+  - triggers: ["Nu'", "Nu*", "Nu@"]
+    replace: "Ν"
+  - triggers: ["OO'", "OO*", "OO@"]
+    replace: "𝕆"
+  - triggers: ["Omega'", "Omega*", "Omega@"]
+    replace: "Ω"
+  - triggers: ["Omega.inv'", "Omega.inv*", "Omega.inv@"]
+    replace: "℧"
+  - triggers: ["Omicron'", "Omicron*", "Omicron@"]
+    replace: "Ο"
+  - triggers: ["PP'", "PP*", "PP@"]
+    replace: "ℙ"
+  - triggers: ["Phi'", "Phi*", "Phi@"]
+    replace: "Φ"
+  - triggers: ["Pi'", "Pi*", "Pi@"]
+    replace: "Π"
+  - triggers: ["Psi'", "Psi*", "Psi@"]
+    replace: "Ψ"
+  - triggers: ["QQ'", "QQ*", "QQ@"]
+    replace: "ℚ"
+  - triggers: ["RR'", "RR*", "RR@"]
+    replace: "ℝ"
+  - triggers: ["Re'", "Re*", "Re@"]
+    replace: "ℜ"
+  - triggers: ["Rho'", "Rho*", "Rho@"]
+    replace: "Ρ"
+  - triggers: ["SS'", "SS*", "SS@"]
+    replace: "𝕊"
+  - triggers: ["Sigma'", "Sigma*", "Sigma@"]
+    replace: "Σ"
+  - triggers: ["TT'", "TT*", "TT@"]
+    replace: "𝕋"
+  - triggers: ["Tau'", "Tau*", "Tau@"]
+    replace: "Τ"
+  - triggers: ["Theta'", "Theta*", "Theta@"]
+    replace: "Θ"
+  - triggers: ["UU'", "UU*", "UU@"]
+    replace: "𝕌"
+  - triggers: ["Upsilon'", "Upsilon*", "Upsilon@"]
+    replace: "Υ"
+  - triggers: ["VV'", "VV*", "VV@"]
+    replace: "𝕍"
+  - triggers: ["WW'", "WW*", "WW@"]
+    replace: "𝕎"
+  - triggers: ["XX'", "XX*", "XX@"]
+    replace: "𝕏"
+  - triggers: ["Xi'", "Xi*", "Xi@"]
+    replace: "Ξ"
+  - triggers: ["YY'", "YY*", "YY@"]
+    replace: "𝕐"
+  - triggers: ["ZZ'", "ZZ*", "ZZ@"]
+    replace: "ℤ"
+  - triggers: ["Zeta'", "Zeta*", "Zeta@"]
+    replace: "Ζ"
+  - triggers: ["acute'", "acute*", "acute@"]
+    replace: "´"
+  - triggers: ["acute.double'", "acute.double*", "acute.double@"]
+    replace: "˝"
+  - triggers: ["alef'", "alef*", "alef@"]
+    replace: "א"
+  - triggers: ["aleph'", "aleph*", "aleph@"]
+    replace: "א"
+  - triggers: ["alpha'", "alpha*", "alpha@"]
+    replace: "α"
+  - triggers: ["amp.inv'", "amp.inv*", "amp.inv@"]
+    replace: "⅋"
+  - triggers: ["and'", "and*", "and@"]
+    replace: "∧"
+  - triggers: ["and.big'", "and.big*", "and.big@"]
+    replace: "⋀"
+  - triggers: ["and.curly'", "and.curly*", "and.curly@"]
+    replace: "⋏"
+  - triggers: ["and.dot'", "and.dot*", "and.dot@"]
+    replace: "⟑"
+  - triggers: ["and.double'", "and.double*", "and.double@"]
+    replace: "⩓"
+  - triggers: ["angle'", "angle*", "angle@"]
+    replace: "∠"
+  - triggers: ["angle.l'", "angle.l*", "angle.l@"]
+    replace: "⟨"
+  - triggers: ["angle.l.curly'", "angle.l.curly*", "angle.l.curly@"]
+    replace: "⧼"
+  - triggers: ["angle.l.dot'", "angle.l.dot*", "angle.l.dot@"]
+    replace: "⦑"
+  - triggers: ["angle.l.double'", "angle.l.double*", "angle.l.double@"]
+    replace: "⟪"
+  - triggers: ["angle.r'", "angle.r*", "angle.r@"]
+    replace: "⟩"
+  - triggers: ["angle.r.curly'", "angle.r.curly*", "angle.r.curly@"]
+    replace: "⧽"
+  - triggers: ["angle.r.dot'", "angle.r.dot*", "angle.r.dot@"]
+    replace: "⦒"
+  - triggers: ["angle.r.double'", "angle.r.double*", "angle.r.double@"]
+    replace: "⟫"
+  - triggers: ["angle.acute'", "angle.acute*", "angle.acute@"]
+    replace: "⦟"
+  - triggers: ["angle.arc'", "angle.arc*", "angle.arc@"]
+    replace: "∡"
+  - triggers: ["angle.arc.rev'", "angle.arc.rev*", "angle.arc.rev@"]
+    replace: "⦛"
+  - triggers: ["angle.oblique'", "angle.oblique*", "angle.oblique@"]
+    replace: "⦦"
+  - triggers: ["angle.rev'", "angle.rev*", "angle.rev@"]
+    replace: "⦣"
+  - triggers: ["angle.right'", "angle.right*", "angle.right@"]
+    replace: "∟"
+  - triggers: ["angle.right.rev'", "angle.right.rev*", "angle.right.rev@"]
+    replace: "⯾"
+  - triggers: ["angle.right.arc'", "angle.right.arc*", "angle.right.arc@"]
+    replace: "⊾"
+  - triggers: ["angle.right.dot'", "angle.right.dot*", "angle.right.dot@"]
+    replace: "⦝"
+  - triggers: ["angle.right.sq'", "angle.right.sq*", "angle.right.sq@"]
+    replace: "⦜"
+  - triggers: ["angle.s'", "angle.s*", "angle.s@"]
+    replace: "⦞"
+  - triggers: ["angle.spatial'", "angle.spatial*", "angle.spatial@"]
+    replace: "⟀"
+  - triggers: ["angle.spheric'", "angle.spheric*", "angle.spheric@"]
+    replace: "∢"
+  - triggers: ["angle.spheric.rev'", "angle.spheric.rev*", "angle.spheric.rev@"]
+    replace: "⦠"
+  - triggers: ["angle.spheric.top'", "angle.spheric.top*", "angle.spheric.top@"]
+    replace: "⦡"
+  - triggers: ["angstrom'", "angstrom*", "angstrom@"]
+    replace: "Å"
+  - triggers: ["approx'", "approx*", "approx@"]
+    replace: "≈"
+  - triggers: ["approx.eq'", "approx.eq*", "approx.eq@"]
+    replace: "≊"
+  - triggers: ["approx.not'", "approx.not*", "approx.not@"]
+    replace: "≉"
+  - triggers: ["arrow.r'", "arrow.r*", "arrow.r@"]
+    replace: "→"
+  - triggers: ["arrow.r.long.bar'", "arrow.r.long.bar*", "arrow.r.long.bar@"]
+    replace: "⟼"
+  - triggers: ["arrow.r.bar'", "arrow.r.bar*", "arrow.r.bar@"]
+    replace: "↦"
+  - triggers: ["arrow.r.curve'", "arrow.r.curve*", "arrow.r.curve@"]
+    replace: "⤷"
+  - triggers: ["arrow.r.turn'", "arrow.r.turn*", "arrow.r.turn@"]
+    replace: "⮎"
+  - triggers: ["arrow.r.dashed'", "arrow.r.dashed*", "arrow.r.dashed@"]
+    replace: "⇢"
+  - triggers: ["arrow.r.dotted'", "arrow.r.dotted*", "arrow.r.dotted@"]
+    replace: "⤑"
+  - triggers: ["arrow.r.double'", "arrow.r.double*", "arrow.r.double@"]
+    replace: "⇒"
+  - triggers: ["arrow.r.double.bar'", "arrow.r.double.bar*", "arrow.r.double.bar@"]
+    replace: "⤇"
+  - triggers: ["arrow.r.double.long'", "arrow.r.double.long*", "arrow.r.double.long@"]
+    replace: "⟹"
+  - triggers: ["arrow.r.double.long.bar'", "arrow.r.double.long.bar*", "arrow.r.double.long.bar@"]
+    replace: "⟾"
+  - triggers: ["arrow.r.double.not'", "arrow.r.double.not*", "arrow.r.double.not@"]
+    replace: "⇏"
+  - triggers: ["arrow.r.filled'", "arrow.r.filled*", "arrow.r.filled@"]
+    replace: "➡"
+  - triggers: ["arrow.r.hook'", "arrow.r.hook*", "arrow.r.hook@"]
+    replace: "↪"
+  - triggers: ["arrow.r.long'", "arrow.r.long*", "arrow.r.long@"]
+    replace: "⟶"
+  - triggers: ["arrow.r.long.squiggly'", "arrow.r.long.squiggly*", "arrow.r.long.squiggly@"]
+    replace: "⟿"
+  - triggers: ["arrow.r.loop'", "arrow.r.loop*", "arrow.r.loop@"]
+    replace: "↬"
+  - triggers: ["arrow.r.not'", "arrow.r.not*", "arrow.r.not@"]
+    replace: "↛"
+  - triggers: ["arrow.r.quad'", "arrow.r.quad*", "arrow.r.quad@"]
+    replace: "⭆"
+  - triggers: ["arrow.r.squiggly'", "arrow.r.squiggly*", "arrow.r.squiggly@"]
+    replace: "⇝"
+  - triggers: ["arrow.r.stop'", "arrow.r.stop*", "arrow.r.stop@"]
+    replace: "⇥"
+  - triggers: ["arrow.r.stroked'", "arrow.r.stroked*", "arrow.r.stroked@"]
+    replace: "⇨"
+  - triggers: ["arrow.r.tail'", "arrow.r.tail*", "arrow.r.tail@"]
+    replace: "↣"
+  - triggers: ["arrow.r.tilde'", "arrow.r.tilde*", "arrow.r.tilde@"]
+    replace: "⥲"
+  - triggers: ["arrow.r.triple'", "arrow.r.triple*", "arrow.r.triple@"]
+    replace: "⇛"
+  - triggers: ["arrow.r.twohead.bar'", "arrow.r.twohead.bar*", "arrow.r.twohead.bar@"]
+    replace: "⤅"
+  - triggers: ["arrow.r.twohead'", "arrow.r.twohead*", "arrow.r.twohead@"]
+    replace: "↠"
+  - triggers: ["arrow.r.wave'", "arrow.r.wave*", "arrow.r.wave@"]
+    replace: "↝"
+  - triggers: ["arrow.l'", "arrow.l*", "arrow.l@"]
+    replace: "←"
+  - triggers: ["arrow.l.bar'", "arrow.l.bar*", "arrow.l.bar@"]
+    replace: "↤"
+  - triggers: ["arrow.l.curve'", "arrow.l.curve*", "arrow.l.curve@"]
+    replace: "⤶"
+  - triggers: ["arrow.l.turn'", "arrow.l.turn*", "arrow.l.turn@"]
+    replace: "⮌"
+  - triggers: ["arrow.l.dashed'", "arrow.l.dashed*", "arrow.l.dashed@"]
+    replace: "⇠"
+  - triggers: ["arrow.l.dotted'", "arrow.l.dotted*", "arrow.l.dotted@"]
+    replace: "⬸"
+  - triggers: ["arrow.l.double'", "arrow.l.double*", "arrow.l.double@"]
+    replace: "⇐"
+  - triggers: ["arrow.l.double.bar'", "arrow.l.double.bar*", "arrow.l.double.bar@"]
+    replace: "⤆"
+  - triggers: ["arrow.l.double.long'", "arrow.l.double.long*", "arrow.l.double.long@"]
+    replace: "⟸"
+  - triggers: ["arrow.l.double.long.bar'", "arrow.l.double.long.bar*", "arrow.l.double.long.bar@"]
+    replace: "⟽"
+  - triggers: ["arrow.l.double.not'", "arrow.l.double.not*", "arrow.l.double.not@"]
+    replace: "⇍"
+  - triggers: ["arrow.l.filled'", "arrow.l.filled*", "arrow.l.filled@"]
+    replace: "⬅"
+  - triggers: ["arrow.l.hook'", "arrow.l.hook*", "arrow.l.hook@"]
+    replace: "↩"
+  - triggers: ["arrow.l.long'", "arrow.l.long*", "arrow.l.long@"]
+    replace: "⟵"
+  - triggers: ["arrow.l.long.bar'", "arrow.l.long.bar*", "arrow.l.long.bar@"]
+    replace: "⟻"
+  - triggers: ["arrow.l.long.squiggly'", "arrow.l.long.squiggly*", "arrow.l.long.squiggly@"]
+    replace: "⬳"
+  - triggers: ["arrow.l.loop'", "arrow.l.loop*", "arrow.l.loop@"]
+    replace: "↫"
+  - triggers: ["arrow.l.not'", "arrow.l.not*", "arrow.l.not@"]
+    replace: "↚"
+  - triggers: ["arrow.l.quad'", "arrow.l.quad*", "arrow.l.quad@"]
+    replace: "⭅"
+  - triggers: ["arrow.l.squiggly'", "arrow.l.squiggly*", "arrow.l.squiggly@"]
+    replace: "⇜"
+  - triggers: ["arrow.l.stop'", "arrow.l.stop*", "arrow.l.stop@"]
+    replace: "⇤"
+  - triggers: ["arrow.l.stroked'", "arrow.l.stroked*", "arrow.l.stroked@"]
+    replace: "⇦"
+  - triggers: ["arrow.l.tail'", "arrow.l.tail*", "arrow.l.tail@"]
+    replace: "↢"
+  - triggers: ["arrow.l.tilde'", "arrow.l.tilde*", "arrow.l.tilde@"]
+    replace: "⭉"
+  - triggers: ["arrow.l.triple'", "arrow.l.triple*", "arrow.l.triple@"]
+    replace: "⇚"
+  - triggers: ["arrow.l.twohead.bar'", "arrow.l.twohead.bar*", "arrow.l.twohead.bar@"]
+    replace: "⬶"
+  - triggers: ["arrow.l.twohead'", "arrow.l.twohead*", "arrow.l.twohead@"]
+    replace: "↞"
+  - triggers: ["arrow.l.wave'", "arrow.l.wave*", "arrow.l.wave@"]
+    replace: "↜"
+  - triggers: ["arrow.t'", "arrow.t*", "arrow.t@"]
+    replace: "↑"
+  - triggers: ["arrow.t.bar'", "arrow.t.bar*", "arrow.t.bar@"]
+    replace: "↥"
+  - triggers: ["arrow.t.curve'", "arrow.t.curve*", "arrow.t.curve@"]
+    replace: "⤴"
+  - triggers: ["arrow.t.turn'", "arrow.t.turn*", "arrow.t.turn@"]
+    replace: "⮍"
+  - triggers: ["arrow.t.dashed'", "arrow.t.dashed*", "arrow.t.dashed@"]
+    replace: "⇡"
+  - triggers: ["arrow.t.double'", "arrow.t.double*", "arrow.t.double@"]
+    replace: "⇑"
+  - triggers: ["arrow.t.filled'", "arrow.t.filled*", "arrow.t.filled@"]
+    replace: "⬆"
+  - triggers: ["arrow.t.quad'", "arrow.t.quad*", "arrow.t.quad@"]
+    replace: "⟰"
+  - triggers: ["arrow.t.stop'", "arrow.t.stop*", "arrow.t.stop@"]
+    replace: "⤒"
+  - triggers: ["arrow.t.stroked'", "arrow.t.stroked*", "arrow.t.stroked@"]
+    replace: "⇧"
+  - triggers: ["arrow.t.triple'", "arrow.t.triple*", "arrow.t.triple@"]
+    replace: "⤊"
+  - triggers: ["arrow.t.twohead'", "arrow.t.twohead*", "arrow.t.twohead@"]
+    replace: "↟"
+  - triggers: ["arrow.b'", "arrow.b*", "arrow.b@"]
+    replace: "↓"
+  - triggers: ["arrow.b.bar'", "arrow.b.bar*", "arrow.b.bar@"]
+    replace: "↧"
+  - triggers: ["arrow.b.curve'", "arrow.b.curve*", "arrow.b.curve@"]
+    replace: "⤵"
+  - triggers: ["arrow.b.turn'", "arrow.b.turn*", "arrow.b.turn@"]
+    replace: "⮏"
+  - triggers: ["arrow.b.dashed'", "arrow.b.dashed*", "arrow.b.dashed@"]
+    replace: "⇣"
+  - triggers: ["arrow.b.double'", "arrow.b.double*", "arrow.b.double@"]
+    replace: "⇓"
+  - triggers: ["arrow.b.filled'", "arrow.b.filled*", "arrow.b.filled@"]
+    replace: "⬇"
+  - triggers: ["arrow.b.quad'", "arrow.b.quad*", "arrow.b.quad@"]
+    replace: "⟱"
+  - triggers: ["arrow.b.stop'", "arrow.b.stop*", "arrow.b.stop@"]
+    replace: "⤓"
+  - triggers: ["arrow.b.stroked'", "arrow.b.stroked*", "arrow.b.stroked@"]
+    replace: "⇩"
+  - triggers: ["arrow.b.triple'", "arrow.b.triple*", "arrow.b.triple@"]
+    replace: "⤋"
+  - triggers: ["arrow.b.twohead'", "arrow.b.twohead*", "arrow.b.twohead@"]
+    replace: "↡"
+  - triggers: ["arrow.l.r'", "arrow.l.r*", "arrow.l.r@"]
+    replace: "↔"
+  - triggers: ["arrow.l.r.double'", "arrow.l.r.double*", "arrow.l.r.double@"]
+    replace: "⇔"
+  - triggers: ["arrow.l.r.double.long'", "arrow.l.r.double.long*", "arrow.l.r.double.long@"]
+    replace: "⟺"
+  - triggers: ["arrow.l.r.double.not'", "arrow.l.r.double.not*", "arrow.l.r.double.not@"]
+    replace: "⇎"
+  - triggers: ["arrow.l.r.filled'", "arrow.l.r.filled*", "arrow.l.r.filled@"]
+    replace: "⬌"
+  - triggers: ["arrow.l.r.long'", "arrow.l.r.long*", "arrow.l.r.long@"]
+    replace: "⟷"
+  - triggers: ["arrow.l.r.not'", "arrow.l.r.not*", "arrow.l.r.not@"]
+    replace: "↮"
+  - triggers: ["arrow.l.r.stroked'", "arrow.l.r.stroked*", "arrow.l.r.stroked@"]
+    replace: "⬄"
+  - triggers: ["arrow.l.r.wave'", "arrow.l.r.wave*", "arrow.l.r.wave@"]
+    replace: "↭"
+  - triggers: ["arrow.t.b'", "arrow.t.b*", "arrow.t.b@"]
+    replace: "↕"
+  - triggers: ["arrow.t.b.double'", "arrow.t.b.double*", "arrow.t.b.double@"]
+    replace: "⇕"
+  - triggers: ["arrow.t.b.filled'", "arrow.t.b.filled*", "arrow.t.b.filled@"]
+    replace: "⬍"
+  - triggers: ["arrow.t.b.stroked'", "arrow.t.b.stroked*", "arrow.t.b.stroked@"]
+    replace: "⇳"
+  - triggers: ["arrow.tr'", "arrow.tr*", "arrow.tr@"]
+    replace: "↗"
+  - triggers: ["arrow.tr.double'", "arrow.tr.double*", "arrow.tr.double@"]
+    replace: "⇗"
+  - triggers: ["arrow.tr.filled'", "arrow.tr.filled*", "arrow.tr.filled@"]
+    replace: "⬈"
+  - triggers: ["arrow.tr.hook'", "arrow.tr.hook*", "arrow.tr.hook@"]
+    replace: "⤤"
+  - triggers: ["arrow.tr.stroked'", "arrow.tr.stroked*", "arrow.tr.stroked@"]
+    replace: "⬀"
+  - triggers: ["arrow.br'", "arrow.br*", "arrow.br@"]
+    replace: "↘"
+  - triggers: ["arrow.br.double'", "arrow.br.double*", "arrow.br.double@"]
+    replace: "⇘"
+  - triggers: ["arrow.br.filled'", "arrow.br.filled*", "arrow.br.filled@"]
+    replace: "⬊"
+  - triggers: ["arrow.br.hook'", "arrow.br.hook*", "arrow.br.hook@"]
+    replace: "⤥"
+  - triggers: ["arrow.br.stroked'", "arrow.br.stroked*", "arrow.br.stroked@"]
+    replace: "⬂"
+  - triggers: ["arrow.tl'", "arrow.tl*", "arrow.tl@"]
+    replace: "↖"
+  - triggers: ["arrow.tl.double'", "arrow.tl.double*", "arrow.tl.double@"]
+    replace: "⇖"
+  - triggers: ["arrow.tl.filled'", "arrow.tl.filled*", "arrow.tl.filled@"]
+    replace: "⬉"
+  - triggers: ["arrow.tl.hook'", "arrow.tl.hook*", "arrow.tl.hook@"]
+    replace: "⤣"
+  - triggers: ["arrow.tl.stroked'", "arrow.tl.stroked*", "arrow.tl.stroked@"]
+    replace: "⬁"
+  - triggers: ["arrow.bl'", "arrow.bl*", "arrow.bl@"]
+    replace: "↙"
+  - triggers: ["arrow.bl.double'", "arrow.bl.double*", "arrow.bl.double@"]
+    replace: "⇙"
+  - triggers: ["arrow.bl.filled'", "arrow.bl.filled*", "arrow.bl.filled@"]
+    replace: "⬋"
+  - triggers: ["arrow.bl.hook'", "arrow.bl.hook*", "arrow.bl.hook@"]
+    replace: "⤦"
+  - triggers: ["arrow.bl.stroked'", "arrow.bl.stroked*", "arrow.bl.stroked@"]
+    replace: "⬃"
+  - triggers: ["arrow.tl.br'", "arrow.tl.br*", "arrow.tl.br@"]
+    replace: "⤡"
+  - triggers: ["arrow.tr.bl'", "arrow.tr.bl*", "arrow.tr.bl@"]
+    replace: "⤢"
+  - triggers: ["arrow.ccw'", "arrow.ccw*", "arrow.ccw@"]
+    replace: "↺"
+  - triggers: ["arrow.ccw.half'", "arrow.ccw.half*", "arrow.ccw.half@"]
+    replace: "↶"
+  - triggers: ["arrow.cw'", "arrow.cw*", "arrow.cw@"]
+    replace: "↻"
+  - triggers: ["arrow.cw.half'", "arrow.cw.half*", "arrow.cw.half@"]
+    replace: "↷"
+  - triggers: ["arrow.zigzag'", "arrow.zigzag*", "arrow.zigzag@"]
+    replace: "↯"
+  - triggers: ["arrowhead.t'", "arrowhead.t*", "arrowhead.t@"]
+    replace: "⌃"
+  - triggers: ["arrowhead.b'", "arrowhead.b*", "arrowhead.b@"]
+    replace: "⌄"
+  - triggers: ["arrows.rr'", "arrows.rr*", "arrows.rr@"]
+    replace: "⇉"
+  - triggers: ["arrows.ll'", "arrows.ll*", "arrows.ll@"]
+    replace: "⇇"
+  - triggers: ["arrows.tt'", "arrows.tt*", "arrows.tt@"]
+    replace: "⇈"
+  - triggers: ["arrows.bb'", "arrows.bb*", "arrows.bb@"]
+    replace: "⇊"
+  - triggers: ["arrows.lr'", "arrows.lr*", "arrows.lr@"]
+    replace: "⇆"
+  - triggers: ["arrows.lr.stop'", "arrows.lr.stop*", "arrows.lr.stop@"]
+    replace: "↹"
+  - triggers: ["arrows.rl'", "arrows.rl*", "arrows.rl@"]
+    replace: "⇄"
+  - triggers: ["arrows.tb'", "arrows.tb*", "arrows.tb@"]
+    replace: "⇅"
+  - triggers: ["arrows.bt'", "arrows.bt*", "arrows.bt@"]
+    replace: "⇵"
+  - triggers: ["arrows.rrr'", "arrows.rrr*", "arrows.rrr@"]
+    replace: "⇶"
+  - triggers: ["arrows.lll'", "arrows.lll*", "arrows.lll@"]
+    replace: "⬱"
+  - triggers: ["ast.op'", "ast.op*", "ast.op@"]
+    replace: "∗"
+  - triggers: ["ast.low'", "ast.low*", "ast.low@"]
+    replace: "⁎"
+  - triggers: ["ast.double'", "ast.double*", "ast.double@"]
+    replace: "⁑"
+  - triggers: ["ast.triple'", "ast.triple*", "ast.triple@"]
+    replace: "⁂"
+  - triggers: ["ast.small'", "ast.small*", "ast.small@"]
+    replace: "﹡"
+  - triggers: ["ast.circle'", "ast.circle*", "ast.circle@"]
+    replace: "⊛"
+  - triggers: ["ast.square'", "ast.square*", "ast.square@"]
+    replace: "⧆"
+  - triggers: ["asymp'", "asymp*", "asymp@"]
+    replace: "≍"
+  - triggers: ["asymp.not'", "asymp.not*", "asymp.not@"]
+    replace: "≭"
+  - triggers: ["backslash.circle'", "backslash.circle*", "backslash.circle@"]
+    replace: "⦸"
+  - triggers: ["backslash.not'", "backslash.not*", "backslash.not@"]
+    replace: "⧷"
+  - triggers: ["ballot'", "ballot*", "ballot@"]
+    replace: "☐"
+  - triggers: ["ballot.cross'", "ballot.cross*", "ballot.cross@"]
+    replace: "☒"
+  - triggers: ["ballot.check'", "ballot.check*", "ballot.check@"]
+    replace: "☑"
+  - triggers: ["ballot.check.heavy'", "ballot.check.heavy*", "ballot.check.heavy@"]
+    replace: "🗹"
+  - triggers: ["bar.v.double'", "bar.v.double*", "bar.v.double@"]
+    replace: "‖"
+  - triggers: ["bar.v.triple'", "bar.v.triple*", "bar.v.triple@"]
+    replace: "⦀"
+  - triggers: ["bar.v.broken'", "bar.v.broken*", "bar.v.broken@"]
+    replace: "¦"
+  - triggers: ["bar.v.circle'", "bar.v.circle*", "bar.v.circle@"]
+    replace: "⦶"
+  - triggers: ["bar.h'", "bar.h*", "bar.h@"]
+    replace: "―"
+  - triggers: ["because'", "because*", "because@"]
+    replace: "∵"
+  - triggers: ["bet'", "bet*", "bet@"]
+    replace: "ב"
+  - triggers: ["beta'", "beta*", "beta@"]
+    replace: "β"
+  - triggers: ["beta.alt'", "beta.alt*", "beta.alt@"]
+    replace: "ϐ"
+  - triggers: ["beth'", "beth*", "beth@"]
+    replace: "ב"
+  - triggers: ["bitcoin'", "bitcoin*", "bitcoin@"]
+    replace: "₿"
+  - triggers: ["bot'", "bot*", "bot@"]
+    replace: "⊥"
+  - triggers: ["brace.l.double'", "brace.l.double*", "brace.l.double@"]
+    replace: "⦃"
+  - triggers: ["brace.r.double'", "brace.r.double*", "brace.r.double@"]
+    replace: "⦄"
+  - triggers: ["brace.t'", "brace.t*", "brace.t@"]
+    replace: "⏞"
+  - triggers: ["brace.b'", "brace.b*", "brace.b@"]
+    replace: "⏟"
+  - triggers: ["bracket.l.double'", "bracket.l.double*", "bracket.l.double@"]
+    replace: "⟦"
+  - triggers: ["bracket.r.double'", "bracket.r.double*", "bracket.r.double@"]
+    replace: "⟧"
+  - triggers: ["bracket.t'", "bracket.t*", "bracket.t@"]
+    replace: "⎴"
+  - triggers: ["bracket.b'", "bracket.b*", "bracket.b@"]
+    replace: "⎵"
+  - triggers: ["breve'", "breve*", "breve@"]
+    replace: "˘"
+  - triggers: ["bullet'", "bullet*", "bullet@"]
+    replace: "•"
+  - triggers: ["caret'", "caret*", "caret@"]
+    replace: "‸"
+  - triggers: ["caron'", "caron*", "caron@"]
+    replace: "ˇ"
+  - triggers: ["ceil.l'", "ceil.l*", "ceil.l@"]
+    replace: "⌈"
+  - triggers: ["ceil.r'", "ceil.r*", "ceil.r@"]
+    replace: "⌉"
+  - triggers: ["checkmark'", "checkmark*", "checkmark@"]
+    replace: "✓"
+  - triggers: ["checkmark.light'", "checkmark.light*", "checkmark.light@"]
+    replace: "🗸"
+  - triggers: ["checkmark.heavy'", "checkmark.heavy*", "checkmark.heavy@"]
+    replace: "✔"
+  - triggers: ["chi'", "chi*", "chi@"]
+    replace: "χ"
+  - triggers: ["circle.stroked'", "circle.stroked*", "circle.stroked@"]
+    replace: "○"
+  - triggers: ["circle.stroked.tiny'", "circle.stroked.tiny*", "circle.stroked.tiny@"]
+    replace: "∘"
+  - triggers: ["circle.stroked.small'", "circle.stroked.small*", "circle.stroked.small@"]
+    replace: "⚬"
+  - triggers: ["circle.stroked.big'", "circle.stroked.big*", "circle.stroked.big@"]
+    replace: "◯"
+  - triggers: ["circle.filled'", "circle.filled*", "circle.filled@"]
+    replace: "●"
+  - triggers: ["circle.filled.tiny'", "circle.filled.tiny*", "circle.filled.tiny@"]
+    replace: "⦁"
+  - triggers: ["circle.filled.small'", "circle.filled.small*", "circle.filled.small@"]
+    replace: "∙"
+  - triggers: ["circle.filled.big'", "circle.filled.big*", "circle.filled.big@"]
+    replace: "⬤"
+  - triggers: ["circle.dotted'", "circle.dotted*", "circle.dotted@"]
+    replace: "◌"
+  - triggers: ["circle.nested'", "circle.nested*", "circle.nested@"]
+    replace: "⊚"
+  - triggers: ["co'", "co*", "co@"]
+    replace: "℅"
+  - triggers: ["colon.double'", "colon.double*", "colon.double@"]
+    replace: "∷"
+  - triggers: ["colon.tri'", "colon.tri*", "colon.tri@"]
+    replace: "⁝"
+  - triggers: ["colon.tri.op'", "colon.tri.op*", "colon.tri.op@"]
+    replace: "⫶"
+  - triggers: ["colon.eq'", "colon.eq*", "colon.eq@"]
+    replace: "≔"
+  - triggers: ["colon.double.eq'", "colon.double.eq*", "colon.double.eq@"]
+    replace: "⩴"
+  - triggers: ["complement'", "complement*", "complement@"]
+    replace: "∁"
+  - triggers: ["compose'", "compose*", "compose@"]
+    replace: "∘"
+  - triggers: ["convolve'", "convolve*", "convolve@"]
+    replace: "∗"
+  - triggers: ["copyleft'", "copyleft*", "copyleft@"]
+    replace: "🄯"
+  - triggers: ["copyright'", "copyright*", "copyright@"]
+    replace: "©"
+  - triggers: ["copyright.sound'", "copyright.sound*", "copyright.sound@"]
+    replace: "℗"
+  - triggers: ["crossmark'", "crossmark*", "crossmark@"]
+    replace: "✗"
+  - triggers: ["crossmark.heavy'", "crossmark.heavy*", "crossmark.heavy@"]
+    replace: "✘"
+  - triggers: ["dagger'", "dagger*", "dagger@"]
+    replace: "†"
+  - triggers: ["dagger.double'", "dagger.double*", "dagger.double@"]
+    replace: "‡"
+  - triggers: ["dagger.triple'", "dagger.triple*", "dagger.triple@"]
+    replace: "⹋"
+  - triggers: ["dagger.l'", "dagger.l*", "dagger.l@"]
+    replace: "⸶"
+  - triggers: ["dagger.r'", "dagger.r*", "dagger.r@"]
+    replace: "⸷"
+  - triggers: ["dagger.inv'", "dagger.inv*", "dagger.inv@"]
+    replace: "⸸"
+  - triggers: ["dalet'", "dalet*", "dalet@"]
+    replace: "ד"
+  - triggers: ["daleth'", "daleth*", "daleth@"]
+    replace: "ד"
+  - triggers: ["dash.en'", "dash.en*", "dash.en@"]
+    replace: "–"
+  - triggers: ["dash.em'", "dash.em*", "dash.em@"]
+    replace: "—"
+  - triggers: ["dash.em.two'", "dash.em.two*", "dash.em.two@"]
+    replace: "⸺"
+  - triggers: ["dash.em.three'", "dash.em.three*", "dash.em.three@"]
+    replace: "⸻"
+  - triggers: ["dash.fig'", "dash.fig*", "dash.fig@"]
+    replace: "‒"
+  - triggers: ["dash.wave'", "dash.wave*", "dash.wave@"]
+    replace: "〜"
+  - triggers: ["dash.colon'", "dash.colon*", "dash.colon@"]
+    replace: "∹"
+  - triggers: ["dash.circle'", "dash.circle*", "dash.circle@"]
+    replace: "⊝"
+  - triggers: ["dash.wave.double'", "dash.wave.double*", "dash.wave.double@"]
+    replace: "〰"
+  - triggers: ["degree'", "degree*", "degree@"]
+    replace: "°"
+  - triggers: ["delta'", "delta*", "delta@"]
+    replace: "δ"
+  - triggers: ["diaer'", "diaer*", "diaer@"]
+    replace: "¨"
+  - triggers: ["diameter'", "diameter*", "diameter@"]
+    replace: "⌀"
+  - triggers: ["diamond.stroked'", "diamond.stroked*", "diamond.stroked@"]
+    replace: "◇"
+  - triggers: ["diamond.stroked.small'", "diamond.stroked.small*", "diamond.stroked.small@"]
+    replace: "⋄"
+  - triggers: ["diamond.stroked.medium'", "diamond.stroked.medium*", "diamond.stroked.medium@"]
+    replace: "⬦"
+  - triggers: ["diamond.stroked.dot'", "diamond.stroked.dot*", "diamond.stroked.dot@"]
+    replace: "⟐"
+  - triggers: ["diamond.filled'", "diamond.filled*", "diamond.filled@"]
+    replace: "◆"
+  - triggers: ["diamond.filled.medium'", "diamond.filled.medium*", "diamond.filled.medium@"]
+    replace: "⬥"
+  - triggers: ["diamond.filled.small'", "diamond.filled.small*", "diamond.filled.small@"]
+    replace: "⬩"
+  - triggers: ["die.six'", "die.six*", "die.six@"]
+    replace: "⚅"
+  - triggers: ["die.five'", "die.five*", "die.five@"]
+    replace: "⚄"
+  - triggers: ["die.four'", "die.four*", "die.four@"]
+    replace: "⚃"
+  - triggers: ["die.three'", "die.three*", "die.three@"]
+    replace: "⚂"
+  - triggers: ["die.two'", "die.two*", "die.two@"]
+    replace: "⚁"
+  - triggers: ["die.one'", "die.one*", "die.one@"]
+    replace: "⚀"
+  - triggers: ["diff'", "diff*", "diff@"]
+    replace: "∂"
+  - triggers: ["div'", "div*", "div@"]
+    replace: "÷"
+  - triggers: ["div.circle'", "div.circle*", "div.circle@"]
+    replace: "⨸"
+  - triggers: ["divides'", "divides*", "divides@"]
+    replace: "∣"
+  - triggers: ["divides.not'", "divides.not*", "divides.not@"]
+    replace: "∤"
+  - triggers: ["divides.not.rev'", "divides.not.rev*", "divides.not.rev@"]
+    replace: "⫮"
+  - triggers: ["divides.struck'", "divides.struck*", "divides.struck@"]
+    replace: "⟊"
+  - triggers: ["dot.op'", "dot.op*", "dot.op@"]
+    replace: "⋅"
+  - triggers: ["dot.c'", "dot.c*", "dot.c@"]
+    replace: "·"
+  - triggers: ["dot.circle'", "dot.circle*", "dot.circle@"]
+    replace: "⊙"
+  - triggers: ["dot.circle.big'", "dot.circle.big*", "dot.circle.big@"]
+    replace: "⨀"
+  - triggers: ["dot.square'", "dot.square*", "dot.square@"]
+    replace: "⊡"
+  - triggers: ["dot.double'", "dot.double*", "dot.double@"]
+    replace: "¨"
+  - triggers: ["dot.triple'", "dot.triple*", "dot.triple@"]
+    replace: "⃛"
+  - triggers: ["dot.quad'", "dot.quad*", "dot.quad@"]
+    replace: "⃜"
+  - triggers: ["dotless.i'", "dotless.i*", "dotless.i@"]
+    replace: "ı"
+  - triggers: ["dotless.j'", "dotless.j*", "dotless.j@"]
+    replace: "ȷ"
+  - triggers: ["dots.h.c'", "dots.h.c*", "dots.h.c@"]
+    replace: "⋯"
+  - triggers: ["dots.h'", "dots.h*", "dots.h@"]
+    replace: "…"
+  - triggers: ["dots.v'", "dots.v*", "dots.v@"]
+    replace: "⋮"
+  - triggers: ["dots.down'", "dots.down*", "dots.down@"]
+    replace: "⋱"
+  - triggers: ["dots.up'", "dots.up*", "dots.up@"]
+    replace: "⋰"
+  - triggers: ["ell'", "ell*", "ell@"]
+    replace: "ℓ"
+  - triggers: ["ellipse.stroked.h'", "ellipse.stroked.h*", "ellipse.stroked.h@"]
+    replace: "⬭"
+  - triggers: ["ellipse.stroked.v'", "ellipse.stroked.v*", "ellipse.stroked.v@"]
+    replace: "⬯"
+  - triggers: ["ellipse.filled.h'", "ellipse.filled.h*", "ellipse.filled.h@"]
+    replace: "⬬"
+  - triggers: ["ellipse.filled.v'", "ellipse.filled.v*", "ellipse.filled.v@"]
+    replace: "⬮"
+  - triggers: ["emptyset'", "emptyset*", "emptyset@"]
+    replace: "∅"
+  - triggers: ["emptyset.arrow.r'", "emptyset.arrow.r*", "emptyset.arrow.r@"]
+    replace: "⦳"
+  - triggers: ["emptyset.arrow.l'", "emptyset.arrow.l*", "emptyset.arrow.l@"]
+    replace: "⦴"
+  - triggers: ["emptyset.bar'", "emptyset.bar*", "emptyset.bar@"]
+    replace: "⦱"
+  - triggers: ["emptyset.circle'", "emptyset.circle*", "emptyset.circle@"]
+    replace: "⦲"
+  - triggers: ["emptyset.rev'", "emptyset.rev*", "emptyset.rev@"]
+    replace: "⦰"
+  - triggers: ["epsilon'", "epsilon*", "epsilon@"]
+    replace: "ε"
+  - triggers: ["epsilon.alt'", "epsilon.alt*", "epsilon.alt@"]
+    replace: "ϵ"
+  - triggers: ["eq.star'", "eq.star*", "eq.star@"]
+    replace: "≛"
+  - triggers: ["eq.circle'", "eq.circle*", "eq.circle@"]
+    replace: "⊜"
+  - triggers: ["eq.colon'", "eq.colon*", "eq.colon@"]
+    replace: "≕"
+  - triggers: ["eq.dots'", "eq.dots*", "eq.dots@"]
+    replace: "≑"
+  - triggers: ["eq.dots.down'", "eq.dots.down*", "eq.dots.down@"]
+    replace: "≒"
+  - triggers: ["eq.dots.up'", "eq.dots.up*", "eq.dots.up@"]
+    replace: "≓"
+  - triggers: ["eq.def'", "eq.def*", "eq.def@"]
+    replace: "≝"
+  - triggers: ["eq.delta'", "eq.delta*", "eq.delta@"]
+    replace: "≜"
+  - triggers: ["eq.equi'", "eq.equi*", "eq.equi@"]
+    replace: "≚"
+  - triggers: ["eq.est'", "eq.est*", "eq.est@"]
+    replace: "≙"
+  - triggers: ["eq.gt'", "eq.gt*", "eq.gt@"]
+    replace: "⋝"
+  - triggers: ["eq.lt'", "eq.lt*", "eq.lt@"]
+    replace: "⋜"
+  - triggers: ["eq.m'", "eq.m*", "eq.m@"]
+    replace: "≞"
+  - triggers: ["eq.not'", "eq.not*", "eq.not@"]
+    replace: "≠"
+  - triggers: ["eq.prec'", "eq.prec*", "eq.prec@"]
+    replace: "⋞"
+  - triggers: ["eq.quest'", "eq.quest*", "eq.quest@"]
+    replace: "≟"
+  - triggers: ["eq.small'", "eq.small*", "eq.small@"]
+    replace: "﹦"
+  - triggers: ["eq.succ'", "eq.succ*", "eq.succ@"]
+    replace: "⋟"
+  - triggers: ["eq.triple'", "eq.triple*", "eq.triple@"]
+    replace: "≡"
+  - triggers: ["eq.triple.not'", "eq.triple.not*", "eq.triple.not@"]
+    replace: "≢"
+  - triggers: ["eq.quad'", "eq.quad*", "eq.quad@"]
+    replace: "≣"
+  - triggers: ["equiv'", "equiv*", "equiv@"]
+    replace: "≡"
+  - triggers: ["equiv.not'", "equiv.not*", "equiv.not@"]
+    replace: "≢"
+  - triggers: ["errorbar.square.stroked'", "errorbar.square.stroked*", "errorbar.square.stroked@"]
+    replace: "⧮"
+  - triggers: ["errorbar.square.filled'", "errorbar.square.filled*", "errorbar.square.filled@"]
+    replace: "⧯"
+  - triggers: ["errorbar.diamond.stroked'", "errorbar.diamond.stroked*", "errorbar.diamond.stroked@"]
+    replace: "⧰"
+  - triggers: ["errorbar.diamond.filled'", "errorbar.diamond.filled*", "errorbar.diamond.filled@"]
+    replace: "⧱"
+  - triggers: ["errorbar.circle.stroked'", "errorbar.circle.stroked*", "errorbar.circle.stroked@"]
+    replace: "⧲"
+  - triggers: ["errorbar.circle.filled'", "errorbar.circle.filled*", "errorbar.circle.filled@"]
+    replace: "⧳"
+  - triggers: ["eta'", "eta*", "eta@"]
+    replace: "η"
+  - triggers: ["euro'", "euro*", "euro@"]
+    replace: "€"
+  - triggers: ["excl.double'", "excl.double*", "excl.double@"]
+    replace: "‼"
+  - triggers: ["excl.inv'", "excl.inv*", "excl.inv@"]
+    replace: "¡"
+  - triggers: ["excl.quest'", "excl.quest*", "excl.quest@"]
+    replace: "⁉"
+  - triggers: ["exists'", "exists*", "exists@"]
+    replace: "∃"
+  - triggers: ["exists.not'", "exists.not*", "exists.not@"]
+    replace: "∄"
+  - triggers: ["fence.l'", "fence.l*", "fence.l@"]
+    replace: "⧘"
+  - triggers: ["fence.l.double'", "fence.l.double*", "fence.l.double@"]
+    replace: "⧚"
+  - triggers: ["fence.r'", "fence.r*", "fence.r@"]
+    replace: "⧙"
+  - triggers: ["fence.r.double'", "fence.r.double*", "fence.r.double@"]
+    replace: "⧛"
+  - triggers: ["fence.dotted'", "fence.dotted*", "fence.dotted@"]
+    replace: "⦙"
+  - triggers: ["flat'", "flat*", "flat@"]
+    replace: "♭"
+  - triggers: ["flat.t'", "flat.t*", "flat.t@"]
+    replace: "𝄬"
+  - triggers: ["flat.b'", "flat.b*", "flat.b@"]
+    replace: "𝄭"
+  - triggers: ["flat.double'", "flat.double*", "flat.double@"]
+    replace: "𝄫"
+  - triggers: ["flat.quarter'", "flat.quarter*", "flat.quarter@"]
+    replace: "𝄳"
+  - triggers: ["floor.l'", "floor.l*", "floor.l@"]
+    replace: "⌊"
+  - triggers: ["floor.r'", "floor.r*", "floor.r@"]
+    replace: "⌋"
+  - triggers: ["floral'", "floral*", "floral@"]
+    replace: "❦"
+  - triggers: ["floral.l'", "floral.l*", "floral.l@"]
+    replace: "☙"
+  - triggers: ["floral.r'", "floral.r*", "floral.r@"]
+    replace: "❧"
+  - triggers: ["forall'", "forall*", "forall@"]
+    replace: "∀"
+  - triggers: ["forces'", "forces*", "forces@"]
+    replace: "⊩"
+  - triggers: ["forces.not'", "forces.not*", "forces.not@"]
+    replace: "⊮"
+  - triggers: ["franc'", "franc*", "franc@"]
+    replace: "₣"
+  - triggers: ["gamma'", "gamma*", "gamma@"]
+    replace: "γ"
+  - triggers: ["gimel'", "gimel*", "gimel@"]
+    replace: "ג"
+  - triggers: ["gimmel'", "gimmel*", "gimmel@"]
+    replace: "ג"
+  - triggers: ["gradient'", "gradient*", "gradient@"]
+    replace: "∇"
+  - triggers: ["gt.circle'", "gt.circle*", "gt.circle@"]
+    replace: "⧁"
+  - triggers: ["gt.dot'", "gt.dot*", "gt.dot@"]
+    replace: "⋗"
+  - triggers: ["gt.approx'", "gt.approx*", "gt.approx@"]
+    replace: "⪆"
+  - triggers: ["gt.double'", "gt.double*", "gt.double@"]
+    replace: "≫"
+  - triggers: ["gt.eq'", "gt.eq*", "gt.eq@"]
+    replace: "≥"
+  - triggers: ["gt.eq.slant'", "gt.eq.slant*", "gt.eq.slant@"]
+    replace: "⩾"
+  - triggers: ["gt.eq.lt'", "gt.eq.lt*", "gt.eq.lt@"]
+    replace: "⋛"
+  - triggers: ["gt.eq.not'", "gt.eq.not*", "gt.eq.not@"]
+    replace: "≱"
+  - triggers: ["gt.equiv'", "gt.equiv*", "gt.equiv@"]
+    replace: "≧"
+  - triggers: ["gt.lt'", "gt.lt*", "gt.lt@"]
+    replace: "≷"
+  - triggers: ["gt.lt.not'", "gt.lt.not*", "gt.lt.not@"]
+    replace: "≹"
+  - triggers: ["gt.neq'", "gt.neq*", "gt.neq@"]
+    replace: "⪈"
+  - triggers: ["gt.napprox'", "gt.napprox*", "gt.napprox@"]
+    replace: "⪊"
+  - triggers: ["gt.nequiv'", "gt.nequiv*", "gt.nequiv@"]
+    replace: "≩"
+  - triggers: ["gt.not'", "gt.not*", "gt.not@"]
+    replace: "≯"
+  - triggers: ["gt.ntilde'", "gt.ntilde*", "gt.ntilde@"]
+    replace: "⋧"
+  - triggers: ["gt.small'", "gt.small*", "gt.small@"]
+    replace: "﹥"
+  - triggers: ["gt.tilde'", "gt.tilde*", "gt.tilde@"]
+    replace: "≳"
+  - triggers: ["gt.tilde.not'", "gt.tilde.not*", "gt.tilde.not@"]
+    replace: "≵"
+  - triggers: ["gt.tri'", "gt.tri*", "gt.tri@"]
+    replace: "⊳"
+  - triggers: ["gt.tri.eq'", "gt.tri.eq*", "gt.tri.eq@"]
+    replace: "⊵"
+  - triggers: ["gt.tri.eq.not'", "gt.tri.eq.not*", "gt.tri.eq.not@"]
+    replace: "⋭"
+  - triggers: ["gt.tri.not'", "gt.tri.not*", "gt.tri.not@"]
+    replace: "⋫"
+  - triggers: ["gt.triple'", "gt.triple*", "gt.triple@"]
+    replace: "⋙"
+  - triggers: ["gt.triple.nested'", "gt.triple.nested*", "gt.triple.nested@"]
+    replace: "⫸"
+  - triggers: ["harpoon.rt'", "harpoon.rt*", "harpoon.rt@"]
+    replace: "⇀"
+  - triggers: ["harpoon.rt.bar'", "harpoon.rt.bar*", "harpoon.rt.bar@"]
+    replace: "⥛"
+  - triggers: ["harpoon.rt.stop'", "harpoon.rt.stop*", "harpoon.rt.stop@"]
+    replace: "⥓"
+  - triggers: ["harpoon.rb'", "harpoon.rb*", "harpoon.rb@"]
+    replace: "⇁"
+  - triggers: ["harpoon.rb.bar'", "harpoon.rb.bar*", "harpoon.rb.bar@"]
+    replace: "⥟"
+  - triggers: ["harpoon.rb.stop'", "harpoon.rb.stop*", "harpoon.rb.stop@"]
+    replace: "⥗"
+  - triggers: ["harpoon.lt'", "harpoon.lt*", "harpoon.lt@"]
+    replace: "↼"
+  - triggers: ["harpoon.lt.bar'", "harpoon.lt.bar*", "harpoon.lt.bar@"]
+    replace: "⥚"
+  - triggers: ["harpoon.lt.stop'", "harpoon.lt.stop*", "harpoon.lt.stop@"]
+    replace: "⥒"
+  - triggers: ["harpoon.lb'", "harpoon.lb*", "harpoon.lb@"]
+    replace: "↽"
+  - triggers: ["harpoon.lb.bar'", "harpoon.lb.bar*", "harpoon.lb.bar@"]
+    replace: "⥞"
+  - triggers: ["harpoon.lb.stop'", "harpoon.lb.stop*", "harpoon.lb.stop@"]
+    replace: "⥖"
+  - triggers: ["harpoon.tl'", "harpoon.tl*", "harpoon.tl@"]
+    replace: "↿"
+  - triggers: ["harpoon.tl.bar'", "harpoon.tl.bar*", "harpoon.tl.bar@"]
+    replace: "⥠"
+  - triggers: ["harpoon.tl.stop'", "harpoon.tl.stop*", "harpoon.tl.stop@"]
+    replace: "⥘"
+  - triggers: ["harpoon.tr'", "harpoon.tr*", "harpoon.tr@"]
+    replace: "↾"
+  - triggers: ["harpoon.tr.bar'", "harpoon.tr.bar*", "harpoon.tr.bar@"]
+    replace: "⥜"
+  - triggers: ["harpoon.tr.stop'", "harpoon.tr.stop*", "harpoon.tr.stop@"]
+    replace: "⥔"
+  - triggers: ["harpoon.bl'", "harpoon.bl*", "harpoon.bl@"]
+    replace: "⇃"
+  - triggers: ["harpoon.bl.bar'", "harpoon.bl.bar*", "harpoon.bl.bar@"]
+    replace: "⥡"
+  - triggers: ["harpoon.bl.stop'", "harpoon.bl.stop*", "harpoon.bl.stop@"]
+    replace: "⥙"
+  - triggers: ["harpoon.br'", "harpoon.br*", "harpoon.br@"]
+    replace: "⇂"
+  - triggers: ["harpoon.br.bar'", "harpoon.br.bar*", "harpoon.br.bar@"]
+    replace: "⥝"
+  - triggers: ["harpoon.br.stop'", "harpoon.br.stop*", "harpoon.br.stop@"]
+    replace: "⥕"
+  - triggers: ["harpoon.lt.rt'", "harpoon.lt.rt*", "harpoon.lt.rt@"]
+    replace: "⥎"
+  - triggers: ["harpoon.lb.rb'", "harpoon.lb.rb*", "harpoon.lb.rb@"]
+    replace: "⥐"
+  - triggers: ["harpoon.lb.rt'", "harpoon.lb.rt*", "harpoon.lb.rt@"]
+    replace: "⥋"
+  - triggers: ["harpoon.lt.rb'", "harpoon.lt.rb*", "harpoon.lt.rb@"]
+    replace: "⥊"
+  - triggers: ["harpoon.tl.bl'", "harpoon.tl.bl*", "harpoon.tl.bl@"]
+    replace: "⥑"
+  - triggers: ["harpoon.tr.br'", "harpoon.tr.br*", "harpoon.tr.br@"]
+    replace: "⥏"
+  - triggers: ["harpoon.tl.br'", "harpoon.tl.br*", "harpoon.tl.br@"]
+    replace: "⥍"
+  - triggers: ["harpoon.tr.bl'", "harpoon.tr.bl*", "harpoon.tr.bl@"]
+    replace: "⥌"
+  - triggers: ["harpoons.rtrb'", "harpoons.rtrb*", "harpoons.rtrb@"]
+    replace: "⥤"
+  - triggers: ["harpoons.blbr'", "harpoons.blbr*", "harpoons.blbr@"]
+    replace: "⥥"
+  - triggers: ["harpoons.bltr'", "harpoons.bltr*", "harpoons.bltr@"]
+    replace: "⥯"
+  - triggers: ["harpoons.lbrb'", "harpoons.lbrb*", "harpoons.lbrb@"]
+    replace: "⥧"
+  - triggers: ["harpoons.ltlb'", "harpoons.ltlb*", "harpoons.ltlb@"]
+    replace: "⥢"
+  - triggers: ["harpoons.ltrb'", "harpoons.ltrb*", "harpoons.ltrb@"]
+    replace: "⇋"
+  - triggers: ["harpoons.ltrt'", "harpoons.ltrt*", "harpoons.ltrt@"]
+    replace: "⥦"
+  - triggers: ["harpoons.rblb'", "harpoons.rblb*", "harpoons.rblb@"]
+    replace: "⥩"
+  - triggers: ["harpoons.rtlb'", "harpoons.rtlb*", "harpoons.rtlb@"]
+    replace: "⇌"
+  - triggers: ["harpoons.rtlt'", "harpoons.rtlt*", "harpoons.rtlt@"]
+    replace: "⥨"
+  - triggers: ["harpoons.tlbr'", "harpoons.tlbr*", "harpoons.tlbr@"]
+    replace: "⥮"
+  - triggers: ["harpoons.tltr'", "harpoons.tltr*", "harpoons.tltr@"]
+    replace: "⥣"
+  - triggers: ["hexa.stroked'", "hexa.stroked*", "hexa.stroked@"]
+    replace: "⬡"
+  - triggers: ["hexa.filled'", "hexa.filled*", "hexa.filled@"]
+    replace: "⬢"
+  - triggers: ["hourglass.stroked'", "hourglass.stroked*", "hourglass.stroked@"]
+    replace: "⧖"
+  - triggers: ["hourglass.filled'", "hourglass.filled*", "hourglass.filled@"]
+    replace: "⧗"
+  - triggers: ["hyph'", "hyph*", "hyph@"]
+    replace: "‐"
+  - triggers: ["hyph.nobreak'", "hyph.nobreak*", "hyph.nobreak@"]
+    replace: "‑"
+  - triggers: ["hyph.point'", "hyph.point*", "hyph.point@"]
+    replace: "‧"
+  - triggers: ["hyph.soft'", "hyph.soft*", "hyph.soft@"]
+    replace: "­"
+  - triggers: ["image'", "image*", "image@"]
+    replace: "⊷"
+  - triggers: ["in'", "in*", "in@"]
+    replace: "∈"
+  - triggers: ["in.not'", "in.not*", "in.not@"]
+    replace: "∉"
+  - triggers: ["in.rev'", "in.rev*", "in.rev@"]
+    replace: "∋"
+  - triggers: ["in.rev.not'", "in.rev.not*", "in.rev.not@"]
+    replace: "∌"
+  - triggers: ["in.rev.small'", "in.rev.small*", "in.rev.small@"]
+    replace: "∍"
+  - triggers: ["in.small'", "in.small*", "in.small@"]
+    replace: "∊"
+  - triggers: ["infinity'", "infinity*", "infinity@"]
+    replace: "∞"
+  - triggers: ["infinity.bar'", "infinity.bar*", "infinity.bar@"]
+    replace: "⧞"
+  - triggers: ["infinity.incomplete'", "infinity.incomplete*", "infinity.incomplete@"]
+    replace: "⧜"
+  - triggers: ["infinity.tie'", "infinity.tie*", "infinity.tie@"]
+    replace: "⧝"
+  - triggers: ["integral'", "integral*", "integral@"]
+    replace: "∫"
+  - triggers: ["integral.arrow.hook'", "integral.arrow.hook*", "integral.arrow.hook@"]
+    replace: "⨗"
+  - triggers: ["integral.ccw'", "integral.ccw*", "integral.ccw@"]
+    replace: "⨑"
+  - triggers: ["integral.cont'", "integral.cont*", "integral.cont@"]
+    replace: "∮"
+  - triggers: ["integral.cont.ccw'", "integral.cont.ccw*", "integral.cont.ccw@"]
+    replace: "∳"
+  - triggers: ["integral.cont.cw'", "integral.cont.cw*", "integral.cont.cw@"]
+    replace: "∲"
+  - triggers: ["integral.cw'", "integral.cw*", "integral.cw@"]
+    replace: "∱"
+  - triggers: ["integral.dash'", "integral.dash*", "integral.dash@"]
+    replace: "⨍"
+  - triggers: ["integral.dash.double'", "integral.dash.double*", "integral.dash.double@"]
+    replace: "⨎"
+  - triggers: ["integral.double'", "integral.double*", "integral.double@"]
+    replace: "∬"
+  - triggers: ["integral.quad'", "integral.quad*", "integral.quad@"]
+    replace: "⨌"
+  - triggers: ["integral.inter'", "integral.inter*", "integral.inter@"]
+    replace: "⨙"
+  - triggers: ["integral.sect'", "integral.sect*", "integral.sect@"]
+    replace: "⨙"
+  - triggers: ["integral.slash'", "integral.slash*", "integral.slash@"]
+    replace: "⨏"
+  - triggers: ["integral.square'", "integral.square*", "integral.square@"]
+    replace: "⨖"
+  - triggers: ["integral.surf'", "integral.surf*", "integral.surf@"]
+    replace: "∯"
+  - triggers: ["integral.times'", "integral.times*", "integral.times@"]
+    replace: "⨘"
+  - triggers: ["integral.triple'", "integral.triple*", "integral.triple@"]
+    replace: "∭"
+  - triggers: ["integral.union'", "integral.union*", "integral.union@"]
+    replace: "⨚"
+  - triggers: ["integral.vol'", "integral.vol*", "integral.vol@"]
+    replace: "∰"
+  - triggers: ["inter'", "inter*", "inter@"]
+    replace: "∩"
+  - triggers: ["inter.and'", "inter.and*", "inter.and@"]
+    replace: "⩄"
+  - triggers: ["inter.big'", "inter.big*", "inter.big@"]
+    replace: "⋂"
+  - triggers: ["inter.dot'", "inter.dot*", "inter.dot@"]
+    replace: "⩀"
+  - triggers: ["inter.double'", "inter.double*", "inter.double@"]
+    replace: "⋒"
+  - triggers: ["inter.sq'", "inter.sq*", "inter.sq@"]
+    replace: "⊓"
+  - triggers: ["inter.sq.big'", "inter.sq.big*", "inter.sq.big@"]
+    replace: "⨅"
+  - triggers: ["inter.sq.double'", "inter.sq.double*", "inter.sq.double@"]
+    replace: "⩎"
+  - triggers: ["interleave'", "interleave*", "interleave@"]
+    replace: "⫴"
+  - triggers: ["interleave.big'", "interleave.big*", "interleave.big@"]
+    replace: "⫼"
+  - triggers: ["interleave.struck'", "interleave.struck*", "interleave.struck@"]
+    replace: "⫵"
+  - triggers: ["interrobang'", "interrobang*", "interrobang@"]
+    replace: "‽"
+  - triggers: ["iota'", "iota*", "iota@"]
+    replace: "ι"
+  - triggers: ["join'", "join*", "join@"]
+    replace: "⨝"
+  - triggers: ["join.r'", "join.r*", "join.r@"]
+    replace: "⟖"
+  - triggers: ["join.l'", "join.l*", "join.l@"]
+    replace: "⟕"
+  - triggers: ["join.l.r'", "join.l.r*", "join.l.r@"]
+    replace: "⟗"
+  - triggers: ["kai'", "kai*", "kai@"]
+    replace: "ϗ"
+  - triggers: ["kappa'", "kappa*", "kappa@"]
+    replace: "κ"
+  - triggers: ["kappa.alt'", "kappa.alt*", "kappa.alt@"]
+    replace: "ϰ"
+  - triggers: ["lambda'", "lambda*", "lambda@"]
+    replace: "λ"
+  - triggers: ["laplace'", "laplace*", "laplace@"]
+    replace: "∆"
+  - triggers: ["lat'", "lat*", "lat@"]
+    replace: "⪫"
+  - triggers: ["lat.eq'", "lat.eq*", "lat.eq@"]
+    replace: "⪭"
+  - triggers: ["lira'", "lira*", "lira@"]
+    replace: "₺"
+  - triggers: ["lozenge.stroked'", "lozenge.stroked*", "lozenge.stroked@"]
+    replace: "◊"
+  - triggers: ["lozenge.stroked.small'", "lozenge.stroked.small*", "lozenge.stroked.small@"]
+    replace: "⬫"
+  - triggers: ["lozenge.stroked.medium'", "lozenge.stroked.medium*", "lozenge.stroked.medium@"]
+    replace: "⬨"
+  - triggers: ["lozenge.filled'", "lozenge.filled*", "lozenge.filled@"]
+    replace: "⧫"
+  - triggers: ["lozenge.filled.small'", "lozenge.filled.small*", "lozenge.filled.small@"]
+    replace: "⬪"
+  - triggers: ["lozenge.filled.medium'", "lozenge.filled.medium*", "lozenge.filled.medium@"]
+    replace: "⬧"
+  - triggers: ["lrm'", "lrm*", "lrm@"]
+    replace: "‎"
+  - triggers: ["lt.circle'", "lt.circle*", "lt.circle@"]
+    replace: "⧀"
+  - triggers: ["lt.dot'", "lt.dot*", "lt.dot@"]
+    replace: "⋖"
+  - triggers: ["lt.approx'", "lt.approx*", "lt.approx@"]
+    replace: "⪅"
+  - triggers: ["lt.double'", "lt.double*", "lt.double@"]
+    replace: "≪"
+  - triggers: ["lt.eq'", "lt.eq*", "lt.eq@"]
+    replace: "≤"
+  - triggers: ["lt.eq.slant'", "lt.eq.slant*", "lt.eq.slant@"]
+    replace: "⩽"
+  - triggers: ["lt.eq.gt'", "lt.eq.gt*", "lt.eq.gt@"]
+    replace: "⋚"
+  - triggers: ["lt.eq.not'", "lt.eq.not*", "lt.eq.not@"]
+    replace: "≰"
+  - triggers: ["lt.equiv'", "lt.equiv*", "lt.equiv@"]
+    replace: "≦"
+  - triggers: ["lt.gt'", "lt.gt*", "lt.gt@"]
+    replace: "≶"
+  - triggers: ["lt.gt.not'", "lt.gt.not*", "lt.gt.not@"]
+    replace: "≸"
+  - triggers: ["lt.neq'", "lt.neq*", "lt.neq@"]
+    replace: "⪇"
+  - triggers: ["lt.napprox'", "lt.napprox*", "lt.napprox@"]
+    replace: "⪉"
+  - triggers: ["lt.nequiv'", "lt.nequiv*", "lt.nequiv@"]
+    replace: "≨"
+  - triggers: ["lt.not'", "lt.not*", "lt.not@"]
+    replace: "≮"
+  - triggers: ["lt.ntilde'", "lt.ntilde*", "lt.ntilde@"]
+    replace: "⋦"
+  - triggers: ["lt.small'", "lt.small*", "lt.small@"]
+    replace: "﹤"
+  - triggers: ["lt.tilde'", "lt.tilde*", "lt.tilde@"]
+    replace: "≲"
+  - triggers: ["lt.tilde.not'", "lt.tilde.not*", "lt.tilde.not@"]
+    replace: "≴"
+  - triggers: ["lt.tri'", "lt.tri*", "lt.tri@"]
+    replace: "⊲"
+  - triggers: ["lt.tri.eq'", "lt.tri.eq*", "lt.tri.eq@"]
+    replace: "⊴"
+  - triggers: ["lt.tri.eq.not'", "lt.tri.eq.not*", "lt.tri.eq.not@"]
+    replace: "⋬"
+  - triggers: ["lt.tri.not'", "lt.tri.not*", "lt.tri.not@"]
+    replace: "⋪"
+  - triggers: ["lt.triple'", "lt.triple*", "lt.triple@"]
+    replace: "⋘"
+  - triggers: ["lt.triple.nested'", "lt.triple.nested*", "lt.triple.nested@"]
+    replace: "⫷"
+  - triggers: ["macron'", "macron*", "macron@"]
+    replace: "¯"
+  - triggers: ["maltese'", "maltese*", "maltese@"]
+    replace: "✠"
+  - triggers: ["mapsto'", "mapsto*", "mapsto@"]
+    replace: "↦"
+  - triggers: ["mapsto.long'", "mapsto.long*", "mapsto.long@"]
+    replace: "⟼"
+  - triggers: ["minus'", "minus*", "minus@"]
+    replace: "−"
+  - triggers: ["minus.circle'", "minus.circle*", "minus.circle@"]
+    replace: "⊖"
+  - triggers: ["minus.dot'", "minus.dot*", "minus.dot@"]
+    replace: "∸"
+  - triggers: ["minus.plus'", "minus.plus*", "minus.plus@"]
+    replace: "∓"
+  - triggers: ["minus.square'", "minus.square*", "minus.square@"]
+    replace: "⊟"
+  - triggers: ["minus.tilde'", "minus.tilde*", "minus.tilde@"]
+    replace: "≂"
+  - triggers: ["minus.triangle'", "minus.triangle*", "minus.triangle@"]
+    replace: "⨺"
+  - triggers: ["miny'", "miny*", "miny@"]
+    replace: "⧿"
+  - triggers: ["models'", "models*", "models@"]
+    replace: "⊧"
+  - triggers: ["mu'", "mu*", "mu@"]
+    replace: "μ"
+  - triggers: ["multimap'", "multimap*", "multimap@"]
+    replace: "⊸"
+  - triggers: ["multimap.double'", "multimap.double*", "multimap.double@"]
+    replace: "⧟"
+  - triggers: ["nabla'", "nabla*", "nabla@"]
+    replace: "∇"
+  - triggers: ["natural'", "natural*", "natural@"]
+    replace: "♮"
+  - triggers: ["natural.t'", "natural.t*", "natural.t@"]
+    replace: "𝄮"
+  - triggers: ["natural.b'", "natural.b*", "natural.b@"]
+    replace: "𝄯"
+  - triggers: ["not'", "not*", "not@"]
+    replace: "¬"
+  - triggers: ["note.up'", "note.up*", "note.up@"]
+    replace: "🎜"
+  - triggers: ["note.down'", "note.down*", "note.down@"]
+    replace: "🎝"
+  - triggers: ["note.whole'", "note.whole*", "note.whole@"]
+    replace: "𝅝"
+  - triggers: ["note.half'", "note.half*", "note.half@"]
+    replace: "𝅗𝅥"
+  - triggers: ["note.quarter'", "note.quarter*", "note.quarter@"]
+    replace: "𝅘𝅥"
+  - triggers: ["note.quarter.alt'", "note.quarter.alt*", "note.quarter.alt@"]
+    replace: "♩"
+  - triggers: ["note.eighth'", "note.eighth*", "note.eighth@"]
+    replace: "𝅘𝅥𝅮"
+  - triggers: ["note.eighth.alt'", "note.eighth.alt*", "note.eighth.alt@"]
+    replace: "♪"
+  - triggers: ["note.eighth.beamed'", "note.eighth.beamed*", "note.eighth.beamed@"]
+    replace: "♫"
+  - triggers: ["note.sixteenth'", "note.sixteenth*", "note.sixteenth@"]
+    replace: "𝅘𝅥𝅯"
+  - triggers: ["note.sixteenth.beamed'", "note.sixteenth.beamed*", "note.sixteenth.beamed@"]
+    replace: "♬"
+  - triggers: ["note.grace'", "note.grace*", "note.grace@"]
+    replace: "𝆕"
+  - triggers: ["note.grace.slash'", "note.grace.slash*", "note.grace.slash@"]
+    replace: "𝆔"
+  - triggers: ["nothing'", "nothing*", "nothing@"]
+    replace: "∅"
+  - triggers: ["nothing.arrow.r'", "nothing.arrow.r*", "nothing.arrow.r@"]
+    replace: "⦳"
+  - triggers: ["nothing.arrow.l'", "nothing.arrow.l*", "nothing.arrow.l@"]
+    replace: "⦴"
+  - triggers: ["nothing.bar'", "nothing.bar*", "nothing.bar@"]
+    replace: "⦱"
+  - triggers: ["nothing.circle'", "nothing.circle*", "nothing.circle@"]
+    replace: "⦲"
+  - triggers: ["nothing.rev'", "nothing.rev*", "nothing.rev@"]
+    replace: "⦰"
+  - triggers: ["nu'", "nu*", "nu@"]
+    replace: "ν"
+  - triggers: ["numero'", "numero*", "numero@"]
+    replace: "№"
+  - triggers: ["omega'", "omega*", "omega@"]
+    replace: "ω"
+  - triggers: ["omicron'", "omicron*", "omicron@"]
+    replace: "ο"
+  - triggers: ["oo'", "oo*", "oo@"]
+    replace: "∞"
+  - triggers: ["or'", "or*", "or@"]
+    replace: "∨"
+  - triggers: ["or.big'", "or.big*", "or.big@"]
+    replace: "⋁"
+  - triggers: ["or.curly'", "or.curly*", "or.curly@"]
+    replace: "⋎"
+  - triggers: ["or.dot'", "or.dot*", "or.dot@"]
+    replace: "⟇"
+  - triggers: ["or.double'", "or.double*", "or.double@"]
+    replace: "⩔"
+  - triggers: ["original'", "original*", "original@"]
+    replace: "⊶"
+  - triggers: ["parallel'", "parallel*", "parallel@"]
+    replace: "∥"
+  - triggers: ["parallel.struck'", "parallel.struck*", "parallel.struck@"]
+    replace: "⫲"
+  - triggers: ["parallel.circle'", "parallel.circle*", "parallel.circle@"]
+    replace: "⦷"
+  - triggers: ["parallel.eq'", "parallel.eq*", "parallel.eq@"]
+    replace: "⋕"
+  - triggers: ["parallel.equiv'", "parallel.equiv*", "parallel.equiv@"]
+    replace: "⩨"
+  - triggers: ["parallel.not'", "parallel.not*", "parallel.not@"]
+    replace: "∦"
+  - triggers: ["parallel.slanted.eq'", "parallel.slanted.eq*", "parallel.slanted.eq@"]
+    replace: "⧣"
+  - triggers: ["parallel.slanted.eq.tilde'", "parallel.slanted.eq.tilde*", "parallel.slanted.eq.tilde@"]
+    replace: "⧤"
+  - triggers: ["parallel.slanted.equiv'", "parallel.slanted.equiv*", "parallel.slanted.equiv@"]
+    replace: "⧥"
+  - triggers: ["parallel.tilde'", "parallel.tilde*", "parallel.tilde@"]
+    replace: "⫳"
+  - triggers: ["parallelogram.stroked'", "parallelogram.stroked*", "parallelogram.stroked@"]
+    replace: "▱"
+  - triggers: ["parallelogram.filled'", "parallelogram.filled*", "parallelogram.filled@"]
+    replace: "▰"
+  - triggers: ["paren.l.double'", "paren.l.double*", "paren.l.double@"]
+    replace: "⦅"
+  - triggers: ["paren.r.double'", "paren.r.double*", "paren.r.double@"]
+    replace: "⦆"
+  - triggers: ["paren.t'", "paren.t*", "paren.t@"]
+    replace: "⏜"
+  - triggers: ["paren.b'", "paren.b*", "paren.b@"]
+    replace: "⏝"
+  - triggers: ["partial'", "partial*", "partial@"]
+    replace: "∂"
+  - triggers: ["penta.stroked'", "penta.stroked*", "penta.stroked@"]
+    replace: "⬠"
+  - triggers: ["penta.filled'", "penta.filled*", "penta.filled@"]
+    replace: "⬟"
+  - triggers: ["permille'", "permille*", "permille@"]
+    replace: "‰"
+  - triggers: ["perp'", "perp*", "perp@"]
+    replace: "⟂"
+  - triggers: ["perp.circle'", "perp.circle*", "perp.circle@"]
+    replace: "⦹"
+  - triggers: ["peso'", "peso*", "peso@"]
+    replace: "₱"
+  - triggers: ["phi'", "phi*", "phi@"]
+    replace: "φ"
+  - triggers: ["phi.alt'", "phi.alt*", "phi.alt@"]
+    replace: "ϕ"
+  - triggers: ["pi'", "pi*", "pi@"]
+    replace: "π"
+  - triggers: ["pi.alt'", "pi.alt*", "pi.alt@"]
+    replace: "ϖ"
+  - triggers: ["pilcrow'", "pilcrow*", "pilcrow@"]
+    replace: "¶"
+  - triggers: ["pilcrow.rev'", "pilcrow.rev*", "pilcrow.rev@"]
+    replace: "⁋"
+  - triggers: ["planck'", "planck*", "planck@"]
+    replace: "ℎ"
+  - triggers: ["planck.reduce'", "planck.reduce*", "planck.reduce@"]
+    replace: "ℏ"
+  - triggers: ["plus.circle'", "plus.circle*", "plus.circle@"]
+    replace: "⊕"
+  - triggers: ["plus.circle.arrow'", "plus.circle.arrow*", "plus.circle.arrow@"]
+    replace: "⟴"
+  - triggers: ["plus.circle.big'", "plus.circle.big*", "plus.circle.big@"]
+    replace: "⨁"
+  - triggers: ["plus.dot'", "plus.dot*", "plus.dot@"]
+    replace: "∔"
+  - triggers: ["plus.double'", "plus.double*", "plus.double@"]
+    replace: "⧺"
+  - triggers: ["plus.minus'", "plus.minus*", "plus.minus@"]
+    replace: "±"
+  - triggers: ["plus.small'", "plus.small*", "plus.small@"]
+    replace: "﹢"
+  - triggers: ["plus.square'", "plus.square*", "plus.square@"]
+    replace: "⊞"
+  - triggers: ["plus.triangle'", "plus.triangle*", "plus.triangle@"]
+    replace: "⨹"
+  - triggers: ["plus.triple'", "plus.triple*", "plus.triple@"]
+    replace: "⧻"
+  - triggers: ["pound'", "pound*", "pound@"]
+    replace: "£"
+  - triggers: ["prec'", "prec*", "prec@"]
+    replace: "≺"
+  - triggers: ["prec.approx'", "prec.approx*", "prec.approx@"]
+    replace: "⪷"
+  - triggers: ["prec.curly.eq'", "prec.curly.eq*", "prec.curly.eq@"]
+    replace: "≼"
+  - triggers: ["prec.curly.eq.not'", "prec.curly.eq.not*", "prec.curly.eq.not@"]
+    replace: "⋠"
+  - triggers: ["prec.double'", "prec.double*", "prec.double@"]
+    replace: "⪻"
+  - triggers: ["prec.eq'", "prec.eq*", "prec.eq@"]
+    replace: "⪯"
+  - triggers: ["prec.equiv'", "prec.equiv*", "prec.equiv@"]
+    replace: "⪳"
+  - triggers: ["prec.napprox'", "prec.napprox*", "prec.napprox@"]
+    replace: "⪹"
+  - triggers: ["prec.neq'", "prec.neq*", "prec.neq@"]
+    replace: "⪱"
+  - triggers: ["prec.nequiv'", "prec.nequiv*", "prec.nequiv@"]
+    replace: "⪵"
+  - triggers: ["prec.not'", "prec.not*", "prec.not@"]
+    replace: "⊀"
+  - triggers: ["prec.ntilde'", "prec.ntilde*", "prec.ntilde@"]
+    replace: "⋨"
+  - triggers: ["prec.tilde'", "prec.tilde*", "prec.tilde@"]
+    replace: "≾"
+  - triggers: ["prime'", "prime*", "prime@"]
+    replace: "′"
+  - triggers: ["prime.rev'", "prime.rev*", "prime.rev@"]
+    replace: "‵"
+  - triggers: ["prime.double'", "prime.double*", "prime.double@"]
+    replace: "″"
+  - triggers: ["prime.double.rev'", "prime.double.rev*", "prime.double.rev@"]
+    replace: "‶"
+  - triggers: ["prime.triple'", "prime.triple*", "prime.triple@"]
+    replace: "‴"
+  - triggers: ["prime.triple.rev'", "prime.triple.rev*", "prime.triple.rev@"]
+    replace: "‷"
+  - triggers: ["prime.quad'", "prime.quad*", "prime.quad@"]
+    replace: "⁗"
+  - triggers: ["product'", "product*", "product@"]
+    replace: "∏"
+  - triggers: ["product.co'", "product.co*", "product.co@"]
+    replace: "∐"
+  - triggers: ["prop'", "prop*", "prop@"]
+    replace: "∝"
+  - triggers: ["psi'", "psi*", "psi@"]
+    replace: "ψ"
+  - triggers: ["qed'", "qed*", "qed@"]
+    replace: "∎"
+  - triggers: ["quest.double'", "quest.double*", "quest.double@"]
+    replace: "⁇"
+  - triggers: ["quest.excl'", "quest.excl*", "quest.excl@"]
+    replace: "⁈"
+  - triggers: ["quest.inv'", "quest.inv*", "quest.inv@"]
+    replace: "¿"
+  - triggers: ["quote.l.double'", "quote.l.double*", "quote.l.double@"]
+    replace: "“"
+  - triggers: ["quote.l.single'", "quote.l.single*", "quote.l.single@"]
+    replace: "‘"
+  - triggers: ["quote.r.double'", "quote.r.double*", "quote.r.double@"]
+    replace: "”"
+  - triggers: ["quote.r.single'", "quote.r.single*", "quote.r.single@"]
+    replace: "’"
+  - triggers: ["quote.angle.l.double'", "quote.angle.l.double*", "quote.angle.l.double@"]
+    replace: "«"
+  - triggers: ["quote.angle.l.single'", "quote.angle.l.single*", "quote.angle.l.single@"]
+    replace: "‹"
+  - triggers: ["quote.angle.r.double'", "quote.angle.r.double*", "quote.angle.r.double@"]
+    replace: "»"
+  - triggers: ["quote.angle.r.single'", "quote.angle.r.single*", "quote.angle.r.single@"]
+    replace: "›"
+  - triggers: ["quote.high.double'", "quote.high.double*", "quote.high.double@"]
+    replace: "‟"
+  - triggers: ["quote.high.single'", "quote.high.single*", "quote.high.single@"]
+    replace: "‛"
+  - triggers: ["quote.low.double'", "quote.low.double*", "quote.low.double@"]
+    replace: "„"
+  - triggers: ["quote.low.single'", "quote.low.single*", "quote.low.single@"]
+    replace: "‚"
+  - triggers: ["ratio'", "ratio*", "ratio@"]
+    replace: "∶"
+  - triggers: ["rect.stroked.h'", "rect.stroked.h*", "rect.stroked.h@"]
+    replace: "▭"
+  - triggers: ["rect.stroked.v'", "rect.stroked.v*", "rect.stroked.v@"]
+    replace: "▯"
+  - triggers: ["rect.filled.h'", "rect.filled.h*", "rect.filled.h@"]
+    replace: "▬"
+  - triggers: ["rect.filled.v'", "rect.filled.v*", "rect.filled.v@"]
+    replace: "▮"
+  - triggers: ["refmark'", "refmark*", "refmark@"]
+    replace: "※"
+  - triggers: ["rest.whole'", "rest.whole*", "rest.whole@"]
+    replace: "𝄻"
+  - triggers: ["rest.multiple'", "rest.multiple*", "rest.multiple@"]
+    replace: "𝄺"
+  - triggers: ["rest.multiple.measure'", "rest.multiple.measure*", "rest.multiple.measure@"]
+    replace: "𝄩"
+  - triggers: ["rest.half'", "rest.half*", "rest.half@"]
+    replace: "𝄼"
+  - triggers: ["rest.quarter'", "rest.quarter*", "rest.quarter@"]
+    replace: "𝄽"
+  - triggers: ["rest.eighth'", "rest.eighth*", "rest.eighth@"]
+    replace: "𝄾"
+  - triggers: ["rest.sixteenth'", "rest.sixteenth*", "rest.sixteenth@"]
+    replace: "𝄿"
+  - triggers: ["rho'", "rho*", "rho@"]
+    replace: "ρ"
+  - triggers: ["rho.alt'", "rho.alt*", "rho.alt@"]
+    replace: "ϱ"
+  - triggers: ["rlm'", "rlm*", "rlm@"]
+    replace: "‏"
+  - triggers: ["ruble'", "ruble*", "ruble@"]
+    replace: "₽"
+  - triggers: ["rupee'", "rupee*", "rupee@"]
+    replace: "₹"
+  - triggers: ["sect'", "sect*", "sect@"]
+    replace: "∩"
+  - triggers: ["sect.and'", "sect.and*", "sect.and@"]
+    replace: "⩄"
+  - triggers: ["sect.big'", "sect.big*", "sect.big@"]
+    replace: "⋂"
+  - triggers: ["sect.dot'", "sect.dot*", "sect.dot@"]
+    replace: "⩀"
+  - triggers: ["sect.double'", "sect.double*", "sect.double@"]
+    replace: "⋒"
+  - triggers: ["sect.sq'", "sect.sq*", "sect.sq@"]
+    replace: "⊓"
+  - triggers: ["sect.sq.big'", "sect.sq.big*", "sect.sq.big@"]
+    replace: "⨅"
+  - triggers: ["sect.sq.double'", "sect.sq.double*", "sect.sq.double@"]
+    replace: "⩎"
+  - triggers: ["section'", "section*", "section@"]
+    replace: "§"
+  - triggers: ["semi.rev'", "semi.rev*", "semi.rev@"]
+    replace: "⁏"
+  - triggers: ["sharp'", "sharp*", "sharp@"]
+    replace: "♯"
+  - triggers: ["sharp.t'", "sharp.t*", "sharp.t@"]
+    replace: "𝄰"
+  - triggers: ["sharp.b'", "sharp.b*", "sharp.b@"]
+    replace: "𝄱"
+  - triggers: ["sharp.double'", "sharp.double*", "sharp.double@"]
+    replace: "𝄪"
+  - triggers: ["sharp.quarter'", "sharp.quarter*", "sharp.quarter@"]
+    replace: "𝄲"
+  - triggers: ["shell.l'", "shell.l*", "shell.l@"]
+    replace: "❲"
+  - triggers: ["shell.l.double'", "shell.l.double*", "shell.l.double@"]
+    replace: "⟬"
+  - triggers: ["shell.r'", "shell.r*", "shell.r@"]
+    replace: "❳"
+  - triggers: ["shell.r.double'", "shell.r.double*", "shell.r.double@"]
+    replace: "⟭"
+  - triggers: ["shell.t'", "shell.t*", "shell.t@"]
+    replace: "⏠"
+  - triggers: ["shell.b'", "shell.b*", "shell.b@"]
+    replace: "⏡"
+  - triggers: ["shin'", "shin*", "shin@"]
+    replace: "ש"
+  - triggers: ["sigma'", "sigma*", "sigma@"]
+    replace: "σ"
+  - triggers: ["sigma.alt'", "sigma.alt*", "sigma.alt@"]
+    replace: "ς"
+  - triggers: ["slash.double'", "slash.double*", "slash.double@"]
+    replace: "⫽"
+  - triggers: ["slash.triple'", "slash.triple*", "slash.triple@"]
+    replace: "⫻"
+  - triggers: ["slash.big'", "slash.big*", "slash.big@"]
+    replace: "⧸"
+  - triggers: ["smash'", "smash*", "smash@"]
+    replace: "⨳"
+  - triggers: ["smt'", "smt*", "smt@"]
+    replace: "⪪"
+  - triggers: ["smt.eq'", "smt.eq*", "smt.eq@"]
+    replace: "⪬"
+  - triggers: ["space.nobreak'", "space.nobreak*", "space.nobreak@"]
+    replace: " "
+  - triggers: ["space.nobreak.narrow'", "space.nobreak.narrow*", "space.nobreak.narrow@"]
+    replace: " "
+  - triggers: ["space.en'", "space.en*", "space.en@"]
+    replace: " "
+  - triggers: ["space.quad'", "space.quad*", "space.quad@"]
+    replace: " "
+  - triggers: ["space.third'", "space.third*", "space.third@"]
+    replace: " "
+  - triggers: ["space.quarter'", "space.quarter*", "space.quarter@"]
+    replace: " "
+  - triggers: ["space.sixth'", "space.sixth*", "space.sixth@"]
+    replace: " "
+  - triggers: ["space.med'", "space.med*", "space.med@"]
+    replace: " "
+  - triggers: ["space.fig'", "space.fig*", "space.fig@"]
+    replace: " "
+  - triggers: ["space.punct'", "space.punct*", "space.punct@"]
+    replace: " "
+  - triggers: ["space.thin'", "space.thin*", "space.thin@"]
+    replace: " "
+  - triggers: ["space.hair'", "space.hair*", "space.hair@"]
+    replace: " "
+  - triggers: ["square.stroked'", "square.stroked*", "square.stroked@"]
+    replace: "□"
+  - triggers: ["square.stroked.tiny'", "square.stroked.tiny*", "square.stroked.tiny@"]
+    replace: "▫"
+  - triggers: ["square.stroked.small'", "square.stroked.small*", "square.stroked.small@"]
+    replace: "◽"
+  - triggers: ["square.stroked.medium'", "square.stroked.medium*", "square.stroked.medium@"]
+    replace: "◻"
+  - triggers: ["square.stroked.big'", "square.stroked.big*", "square.stroked.big@"]
+    replace: "⬜"
+  - triggers: ["square.stroked.dotted'", "square.stroked.dotted*", "square.stroked.dotted@"]
+    replace: "⬚"
+  - triggers: ["square.stroked.rounded'", "square.stroked.rounded*", "square.stroked.rounded@"]
+    replace: "▢"
+  - triggers: ["square.filled'", "square.filled*", "square.filled@"]
+    replace: "■"
+  - triggers: ["square.filled.tiny'", "square.filled.tiny*", "square.filled.tiny@"]
+    replace: "▪"
+  - triggers: ["square.filled.small'", "square.filled.small*", "square.filled.small@"]
+    replace: "◾"
+  - triggers: ["square.filled.medium'", "square.filled.medium*", "square.filled.medium@"]
+    replace: "◼"
+  - triggers: ["square.filled.big'", "square.filled.big*", "square.filled.big@"]
+    replace: "⬛"
+  - triggers: ["star.op'", "star.op*", "star.op@"]
+    replace: "⋆"
+  - triggers: ["star.stroked'", "star.stroked*", "star.stroked@"]
+    replace: "☆"
+  - triggers: ["star.filled'", "star.filled*", "star.filled@"]
+    replace: "★"
+  - triggers: ["subset'", "subset*", "subset@"]
+    replace: "⊂"
+  - triggers: ["subset.dot'", "subset.dot*", "subset.dot@"]
+    replace: "⪽"
+  - triggers: ["subset.double'", "subset.double*", "subset.double@"]
+    replace: "⋐"
+  - triggers: ["subset.eq'", "subset.eq*", "subset.eq@"]
+    replace: "⊆"
+  - triggers: ["subset.eq.not'", "subset.eq.not*", "subset.eq.not@"]
+    replace: "⊈"
+  - triggers: ["subset.eq.sq'", "subset.eq.sq*", "subset.eq.sq@"]
+    replace: "⊑"
+  - triggers: ["subset.eq.sq.not'", "subset.eq.sq.not*", "subset.eq.sq.not@"]
+    replace: "⋢"
+  - triggers: ["subset.neq'", "subset.neq*", "subset.neq@"]
+    replace: "⊊"
+  - triggers: ["subset.not'", "subset.not*", "subset.not@"]
+    replace: "⊄"
+  - triggers: ["subset.sq'", "subset.sq*", "subset.sq@"]
+    replace: "⊏"
+  - triggers: ["subset.sq.neq'", "subset.sq.neq*", "subset.sq.neq@"]
+    replace: "⋤"
+  - triggers: ["succ'", "succ*", "succ@"]
+    replace: "≻"
+  - triggers: ["succ.approx'", "succ.approx*", "succ.approx@"]
+    replace: "⪸"
+  - triggers: ["succ.curly.eq'", "succ.curly.eq*", "succ.curly.eq@"]
+    replace: "≽"
+  - triggers: ["succ.curly.eq.not'", "succ.curly.eq.not*", "succ.curly.eq.not@"]
+    replace: "⋡"
+  - triggers: ["succ.double'", "succ.double*", "succ.double@"]
+    replace: "⪼"
+  - triggers: ["succ.eq'", "succ.eq*", "succ.eq@"]
+    replace: "⪰"
+  - triggers: ["succ.equiv'", "succ.equiv*", "succ.equiv@"]
+    replace: "⪴"
+  - triggers: ["succ.napprox'", "succ.napprox*", "succ.napprox@"]
+    replace: "⪺"
+  - triggers: ["succ.neq'", "succ.neq*", "succ.neq@"]
+    replace: "⪲"
+  - triggers: ["succ.nequiv'", "succ.nequiv*", "succ.nequiv@"]
+    replace: "⪶"
+  - triggers: ["succ.not'", "succ.not*", "succ.not@"]
+    replace: "⊁"
+  - triggers: ["succ.ntilde'", "succ.ntilde*", "succ.ntilde@"]
+    replace: "⋩"
+  - triggers: ["succ.tilde'", "succ.tilde*", "succ.tilde@"]
+    replace: "≿"
+  - triggers: ["suit.club.filled'", "suit.club.filled*", "suit.club.filled@"]
+    replace: "♣"
+  - triggers: ["suit.club.stroked'", "suit.club.stroked*", "suit.club.stroked@"]
+    replace: "♧"
+  - triggers: ["suit.diamond.filled'", "suit.diamond.filled*", "suit.diamond.filled@"]
+    replace: "♦"
+  - triggers: ["suit.diamond.stroked'", "suit.diamond.stroked*", "suit.diamond.stroked@"]
+    replace: "♢"
+  - triggers: ["suit.heart.filled'", "suit.heart.filled*", "suit.heart.filled@"]
+    replace: "♥"
+  - triggers: ["suit.heart.stroked'", "suit.heart.stroked*", "suit.heart.stroked@"]
+    replace: "♡"
+  - triggers: ["suit.spade.filled'", "suit.spade.filled*", "suit.spade.filled@"]
+    replace: "♠"
+  - triggers: ["suit.spade.stroked'", "suit.spade.stroked*", "suit.spade.stroked@"]
+    replace: "♤"
+  - triggers: ["sum'", "sum*", "sum@"]
+    replace: "∑"
+  - triggers: ["sum.integral'", "sum.integral*", "sum.integral@"]
+    replace: "⨋"
+  - triggers: ["supset'", "supset*", "supset@"]
+    replace: "⊃"
+  - triggers: ["supset.dot'", "supset.dot*", "supset.dot@"]
+    replace: "⪾"
+  - triggers: ["supset.double'", "supset.double*", "supset.double@"]
+    replace: "⋑"
+  - triggers: ["supset.eq'", "supset.eq*", "supset.eq@"]
+    replace: "⊇"
+  - triggers: ["supset.eq.not'", "supset.eq.not*", "supset.eq.not@"]
+    replace: "⊉"
+  - triggers: ["supset.eq.sq'", "supset.eq.sq*", "supset.eq.sq@"]
+    replace: "⊒"
+  - triggers: ["supset.eq.sq.not'", "supset.eq.sq.not*", "supset.eq.sq.not@"]
+    replace: "⋣"
+  - triggers: ["supset.neq'", "supset.neq*", "supset.neq@"]
+    replace: "⊋"
+  - triggers: ["supset.not'", "supset.not*", "supset.not@"]
+    replace: "⊅"
+  - triggers: ["supset.sq'", "supset.sq*", "supset.sq@"]
+    replace: "⊐"
+  - triggers: ["supset.sq.neq'", "supset.sq.neq*", "supset.sq.neq@"]
+    replace: "⋥"
+  - triggers: ["tack.r'", "tack.r*", "tack.r@"]
+    replace: "⊢"
+  - triggers: ["tack.r.not'", "tack.r.not*", "tack.r.not@"]
+    replace: "⊬"
+  - triggers: ["tack.r.long'", "tack.r.long*", "tack.r.long@"]
+    replace: "⟝"
+  - triggers: ["tack.r.short'", "tack.r.short*", "tack.r.short@"]
+    replace: "⊦"
+  - triggers: ["tack.r.double'", "tack.r.double*", "tack.r.double@"]
+    replace: "⊨"
+  - triggers: ["tack.r.double.not'", "tack.r.double.not*", "tack.r.double.not@"]
+    replace: "⊭"
+  - triggers: ["tack.l'", "tack.l*", "tack.l@"]
+    replace: "⊣"
+  - triggers: ["tack.l.long'", "tack.l.long*", "tack.l.long@"]
+    replace: "⟞"
+  - triggers: ["tack.l.short'", "tack.l.short*", "tack.l.short@"]
+    replace: "⫞"
+  - triggers: ["tack.l.double'", "tack.l.double*", "tack.l.double@"]
+    replace: "⫤"
+  - triggers: ["tack.t'", "tack.t*", "tack.t@"]
+    replace: "⊥"
+  - triggers: ["tack.t.big'", "tack.t.big*", "tack.t.big@"]
+    replace: "⟘"
+  - triggers: ["tack.t.double'", "tack.t.double*", "tack.t.double@"]
+    replace: "⫫"
+  - triggers: ["tack.t.short'", "tack.t.short*", "tack.t.short@"]
+    replace: "⫠"
+  - triggers: ["tack.b'", "tack.b*", "tack.b@"]
+    replace: "⊤"
+  - triggers: ["tack.b.big'", "tack.b.big*", "tack.b.big@"]
+    replace: "⟙"
+  - triggers: ["tack.b.double'", "tack.b.double*", "tack.b.double@"]
+    replace: "⫪"
+  - triggers: ["tack.b.short'", "tack.b.short*", "tack.b.short@"]
+    replace: "⫟"
+  - triggers: ["tack.l.r'", "tack.l.r*", "tack.l.r@"]
+    replace: "⟛"
+  - triggers: ["tau'", "tau*", "tau@"]
+    replace: "τ"
+  - triggers: ["therefore'", "therefore*", "therefore@"]
+    replace: "∴"
+  - triggers: ["theta'", "theta*", "theta@"]
+    replace: "θ"
+  - triggers: ["theta.alt'", "theta.alt*", "theta.alt@"]
+    replace: "ϑ"
+  - triggers: ["tilde.op'", "tilde.op*", "tilde.op@"]
+    replace: "∼"
+  - triggers: ["tilde.dot'", "tilde.dot*", "tilde.dot@"]
+    replace: "⩪"
+  - triggers: ["tilde.eq'", "tilde.eq*", "tilde.eq@"]
+    replace: "≃"
+  - triggers: ["tilde.eq.not'", "tilde.eq.not*", "tilde.eq.not@"]
+    replace: "≄"
+  - triggers: ["tilde.eq.rev'", "tilde.eq.rev*", "tilde.eq.rev@"]
+    replace: "⋍"
+  - triggers: ["tilde.equiv'", "tilde.equiv*", "tilde.equiv@"]
+    replace: "≅"
+  - triggers: ["tilde.equiv.not'", "tilde.equiv.not*", "tilde.equiv.not@"]
+    replace: "≇"
+  - triggers: ["tilde.nequiv'", "tilde.nequiv*", "tilde.nequiv@"]
+    replace: "≆"
+  - triggers: ["tilde.not'", "tilde.not*", "tilde.not@"]
+    replace: "≁"
+  - triggers: ["tilde.rev'", "tilde.rev*", "tilde.rev@"]
+    replace: "∽"
+  - triggers: ["tilde.rev.equiv'", "tilde.rev.equiv*", "tilde.rev.equiv@"]
+    replace: "≌"
+  - triggers: ["tilde.triple'", "tilde.triple*", "tilde.triple@"]
+    replace: "≋"
+  - triggers: ["times'", "times*", "times@"]
+    replace: "×"
+  - triggers: ["times.big'", "times.big*", "times.big@"]
+    replace: "⨉"
+  - triggers: ["times.circle'", "times.circle*", "times.circle@"]
+    replace: "⊗"
+  - triggers: ["times.circle.big'", "times.circle.big*", "times.circle.big@"]
+    replace: "⨂"
+  - triggers: ["times.div'", "times.div*", "times.div@"]
+    replace: "⋇"
+  - triggers: ["times.three.l'", "times.three.l*", "times.three.l@"]
+    replace: "⋋"
+  - triggers: ["times.three.r'", "times.three.r*", "times.three.r@"]
+    replace: "⋌"
+  - triggers: ["times.l'", "times.l*", "times.l@"]
+    replace: "⋉"
+  - triggers: ["times.r'", "times.r*", "times.r@"]
+    replace: "⋊"
+  - triggers: ["times.square'", "times.square*", "times.square@"]
+    replace: "⊠"
+  - triggers: ["times.triangle'", "times.triangle*", "times.triangle@"]
+    replace: "⨻"
+  - triggers: ["tiny'", "tiny*", "tiny@"]
+    replace: "⧾"
+  - triggers: ["top'", "top*", "top@"]
+    replace: "⊤"
+  - triggers: ["trademark'", "trademark*", "trademark@"]
+    replace: "™"
+  - triggers: ["trademark.registered'", "trademark.registered*", "trademark.registered@"]
+    replace: "®"
+  - triggers: ["trademark.service'", "trademark.service*", "trademark.service@"]
+    replace: "℠"
+  - triggers: ["triangle.stroked.t'", "triangle.stroked.t*", "triangle.stroked.t@"]
+    replace: "△"
+  - triggers: ["triangle.stroked.b'", "triangle.stroked.b*", "triangle.stroked.b@"]
+    replace: "▽"
+  - triggers: ["triangle.stroked.r'", "triangle.stroked.r*", "triangle.stroked.r@"]
+    replace: "▷"
+  - triggers: ["triangle.stroked.l'", "triangle.stroked.l*", "triangle.stroked.l@"]
+    replace: "◁"
+  - triggers: ["triangle.stroked.bl'", "triangle.stroked.bl*", "triangle.stroked.bl@"]
+    replace: "◺"
+  - triggers: ["triangle.stroked.br'", "triangle.stroked.br*", "triangle.stroked.br@"]
+    replace: "◿"
+  - triggers: ["triangle.stroked.tl'", "triangle.stroked.tl*", "triangle.stroked.tl@"]
+    replace: "◸"
+  - triggers: ["triangle.stroked.tr'", "triangle.stroked.tr*", "triangle.stroked.tr@"]
+    replace: "◹"
+  - triggers: ["triangle.stroked.small.t'", "triangle.stroked.small.t*", "triangle.stroked.small.t@"]
+    replace: "▵"
+  - triggers: ["triangle.stroked.small.b'", "triangle.stroked.small.b*", "triangle.stroked.small.b@"]
+    replace: "▿"
+  - triggers: ["triangle.stroked.small.r'", "triangle.stroked.small.r*", "triangle.stroked.small.r@"]
+    replace: "▹"
+  - triggers: ["triangle.stroked.small.l'", "triangle.stroked.small.l*", "triangle.stroked.small.l@"]
+    replace: "◃"
+  - triggers: ["triangle.stroked.rounded'", "triangle.stroked.rounded*", "triangle.stroked.rounded@"]
+    replace: "🛆"
+  - triggers: ["triangle.stroked.nested'", "triangle.stroked.nested*", "triangle.stroked.nested@"]
+    replace: "⟁"
+  - triggers: ["triangle.stroked.dot'", "triangle.stroked.dot*", "triangle.stroked.dot@"]
+    replace: "◬"
+  - triggers: ["triangle.filled.t'", "triangle.filled.t*", "triangle.filled.t@"]
+    replace: "▲"
+  - triggers: ["triangle.filled.b'", "triangle.filled.b*", "triangle.filled.b@"]
+    replace: "▼"
+  - triggers: ["triangle.filled.r'", "triangle.filled.r*", "triangle.filled.r@"]
+    replace: "▶"
+  - triggers: ["triangle.filled.l'", "triangle.filled.l*", "triangle.filled.l@"]
+    replace: "◀"
+  - triggers: ["triangle.filled.bl'", "triangle.filled.bl*", "triangle.filled.bl@"]
+    replace: "◣"
+  - triggers: ["triangle.filled.br'", "triangle.filled.br*", "triangle.filled.br@"]
+    replace: "◢"
+  - triggers: ["triangle.filled.tl'", "triangle.filled.tl*", "triangle.filled.tl@"]
+    replace: "◤"
+  - triggers: ["triangle.filled.tr'", "triangle.filled.tr*", "triangle.filled.tr@"]
+    replace: "◥"
+  - triggers: ["triangle.filled.small.t'", "triangle.filled.small.t*", "triangle.filled.small.t@"]
+    replace: "▴"
+  - triggers: ["triangle.filled.small.b'", "triangle.filled.small.b*", "triangle.filled.small.b@"]
+    replace: "▾"
+  - triggers: ["triangle.filled.small.r'", "triangle.filled.small.r*", "triangle.filled.small.r@"]
+    replace: "▸"
+  - triggers: ["triangle.filled.small.l'", "triangle.filled.small.l*", "triangle.filled.small.l@"]
+    replace: "◂"
+  - triggers: ["union'", "union*", "union@"]
+    replace: "∪"
+  - triggers: ["union.arrow'", "union.arrow*", "union.arrow@"]
+    replace: "⊌"
+  - triggers: ["union.big'", "union.big*", "union.big@"]
+    replace: "⋃"
+  - triggers: ["union.dot'", "union.dot*", "union.dot@"]
+    replace: "⊍"
+  - triggers: ["union.dot.big'", "union.dot.big*", "union.dot.big@"]
+    replace: "⨃"
+  - triggers: ["union.double'", "union.double*", "union.double@"]
+    replace: "⋓"
+  - triggers: ["union.minus'", "union.minus*", "union.minus@"]
+    replace: "⩁"
+  - triggers: ["union.or'", "union.or*", "union.or@"]
+    replace: "⩅"
+  - triggers: ["union.plus'", "union.plus*", "union.plus@"]
+    replace: "⊎"
+  - triggers: ["union.plus.big'", "union.plus.big*", "union.plus.big@"]
+    replace: "⨄"
+  - triggers: ["union.sq'", "union.sq*", "union.sq@"]
+    replace: "⊔"
+  - triggers: ["union.sq.big'", "union.sq.big*", "union.sq.big@"]
+    replace: "⨆"
+  - triggers: ["union.sq.double'", "union.sq.double*", "union.sq.double@"]
+    replace: "⩏"
+  - triggers: ["upsilon'", "upsilon*", "upsilon@"]
+    replace: "υ"
+  - triggers: ["without'", "without*", "without@"]
+    replace: "∖"
+  - triggers: ["wj'", "wj*", "wj@"]
+    replace: "⁠"
+  - triggers: ["won'", "won*", "won@"]
+    replace: "₩"
+  - triggers: ["wreath'", "wreath*", "wreath@"]
+    replace: "≀"
+  - triggers: ["xi'", "xi*", "xi@"]
+    replace: "ξ"
+  - triggers: ["xor'", "xor*", "xor@"]
+    replace: "⊕"
+  - triggers: ["xor.big'", "xor.big*", "xor.big@"]
+    replace: "⨁"
+  - triggers: ["yen'", "yen*", "yen@"]
+    replace: "¥"
+  - triggers: ["zeta'", "zeta*", "zeta@"]
+    replace: "ζ"
+  - triggers: ["zwj'", "zwj*", "zwj@"]
+    replace: "‍"
+  - triggers: ["zwnj'", "zwnj*", "zwnj@"]
+    replace: "‌"
+  - triggers: ["zws'", "zws*", "zws@"]
+    replace: "​"
+
+
+
+
+  - triggers: ["^0*", "^0'", "^0@"]
+    replace: "⁰"
+  - triggers: ["^1*", "^1'", "^1@"]
+    replace: "¹"
+  - triggers: ["^2*", "^2'", "^2@"]
+    replace: "²"
+  - triggers: ["^3*", "^3'", "^3@"]
+    replace: "³"
+  - triggers: ["^4*", "^4'", "^4@"]
+    replace: "⁴"
+  - triggers: ["^5*", "^5'", "^5@"]
+    replace: "⁵"
+  - triggers: ["^6*", "^6'", "^6@"]
+    replace: "⁶"
+  - triggers: ["^7*", "^7'", "^7@"]
+    replace: "⁷"
+  - triggers: ["^8*", "^8'", "^8@"]
+    replace: "⁸"
+  - triggers: ["^9*", "^9'", "^9@"]
+    replace: "⁹"
+
+  - triggers: ["_0*", "_0'", "_0@"]
+    replace: "₀"
+
+  - triggers: ["_1*", "_1'", "_1@"]
+    replace: "₁"
+
+  - triggers: ["_2*", "_2'", "_2@"]
+    replace: "₂"
+
+  - triggers: ["_3*", "_3'", "_3@"]
+    replace: "₃"
+
+  - triggers: ["_4*", "_4'", "_4@"]
+    replace: "₄"
+
+  - triggers: ["_5*", "_5'", "_5@"]
+    replace: "₅"
+
+  - triggers: ["_6*", "_6'", "_6@"]
+    replace: "₆"
+
+  - triggers: ["_7*", "_7'", "_7@"]
+    replace: "₇"
+
+  - triggers: ["_8*", "_8'", "_8@"]
+    replace: "₈"
+
+  - triggers: ["_9*", "_9'", "_9@"]
+    replace: "₉"
+
+  - triggers: ["_(*", "_('", "_(@"]
+    replace: "₍"
+
+  - triggers: ["_)*", "_)'", "_)@"]
+    replace: "₎"
+
+  - triggers: ["_+*", "_+'", "_+@"]
+    replace: "₊"
+
+  - triggers: ["_-*", "_-'", "_-@"]
+    replace: "₋"
+
+  - triggers: ["^a*", "^a'", "^a@"]
+    replace: "ᵃ"
+
+  - triggers: ["^b*", "^b'", "^b@"]
+    replace: "ᵇ"
+
+  - triggers: ["^c*", "^c'", "^c@"]
+    replace: "ᶜ"
+
+  - triggers: ["^d*", "^d'", "^d@"]
+    replace: "ᵈ"
+
+  - triggers: ["^e*", "^e'", "^e@"]
+    replace: "ᵉ"
+
+  - triggers: ["^f*", "^f'", "^f@"]
+    replace: "ᶠ"
+
+  - triggers: ["^g*", "^g'", "^g@"]
+    replace: "ᵍ"
+
+  - triggers: ["^h*", "^h'", "^h@"]
+    replace: "ʰ"
+
+  - triggers: ["^i*", "^i'", "^i@"]
+    replace: "ⁱ"
+
+  - triggers: ["^j*", "^j'", "^j@"]
+    replace: "ʲ"
+
+  - triggers: ["^k*", "^k'", "^k@"]
+    replace: "ᵏ"
+
+  - triggers: ["^l*", "^l'", "^l@"]
+    replace: "ˡ"
+
+  - triggers: ["^m*", "^m'", "^m@"]
+    replace: "ᵐ"
+
+  - triggers: ["^n*", "^n'", "^n@"]
+    replace: "ⁿ"
+
+  - triggers: ["^o*", "^o'", "^o@"]
+    replace: "ᵒ"   
+
+  - triggers: ["^p*", "^p'", "^p@"]
+    replace: "ᵖ"     
+
+  - triggers: ["^r*", "^r'", "^r@"]
+    replace: "ʳ"
+
+  - triggers: ["^s*", "^s'", "^s@"]
+    replace: "ˢ"
+
+  - triggers: ["^t*", "^t'", "^t@"]
+    replace: "ᵗ"
+
+  - triggers: ["^u*", "^u'", "^u@"]
+    replace: "ᵘ"
+
+  - triggers: ["^v*", "^v'", "^v@"]
+    replace: "ᵛ"
+
+  - triggers: ["^w*", "^w'", "^w@"]
+    replace: "ʷ"
+
+  - triggers: ["^x*", "^x'", "^x@"]
+    replace: "ˣ"
+
+  - triggers: ["^y*", "^y'", "^y@"]
+    replace: "ʸ"
+
+  - triggers: ["^z*", "^z'", "^z@"]
+    replace: "ᶻ"
+
+  - triggers: ["_a*", "_a'", "_a@"]
+    replace: "ₐ"
+
+  - triggers: ["_e*", "_e'", "_e@"]
+    replace: "ₑ"      
+
+  - triggers: ["_h*", "_h'", "_h@"]
+    replace: "ₕ"         
+
+  - triggers: ["_i*", "_i'", "_i@"]
+    replace: "ᵢ"
+
+  - triggers: ["_j*", "_j'", "_j@"]
+    replace: "ⱼ"
+
+  - triggers: ["_k*", "_k'", "_k@"]
+    replace: "ₖ"
+
+  - triggers: ["_l*", "_l'", "_l@"]
+    replace: "ₗ"
+
+  - triggers: ["_m*", "_m'", "_m@"]
+    replace: "ₘ"
+
+  - triggers: ["_n*", "_n'", "_n@"]
+    replace: "ₙ"
+
+  - triggers: ["_o*", "_o'", "_o@"]
+    replace: "ₒ"
+
+  - triggers: ["_p*", "_p'", "_p@"]
+    replace: "ₚ"
+
+  - triggers: ["_r*", "_r'", "_r@"]
+    replace: "ᵣ"
+
+  - triggers: ["_s*", "_s'", "_s@"]
+    replace: "ₛ"
+
+  - triggers: ["_t*", "_t'", "_t@"]
+    replace: "ₜ"
+
+  - triggers: ["_u*", "_u'", "_u@"]
+    replace: "ᵤ"
+
+  - triggers: ["_v*", "_v'", "_v@"]
+    replace: "ᵥ"
+
+  - triggers: ["_x*", "_x'", "_x@"]
+    replace: "ₓ"
+
+  - triggers: ["ind*", "ind'", "ind@"]
+    replace: "⫫"
+
+
+  - triggers: ["mail*", "mail'", "mail@"]
+    replace: "notmy@actualmail.com"
+
+
+  - triggers: ["left*", "left'", "left@", "lt*", "lt'", "lt@"]
+    replace: "←"
+  - triggers: ["up*", "up'", "up@"]
+    replace: "↑"
+  - triggers: ["down*", "down'", "down@", "dn*", "dn'", "dn@"]
+    replace: "↓"
+  - triggers: ["right*", "right'", "right@", "rt*", "rt'", "rt@"]
+    replace: "→"
+  - triggers: ["lv*", "lv'", "lv@"]
+    replace: "⇌"
+  - triggers: ["leftright*", "leftright'", "leftright@", "leri*", "leri'", "leri@"]
+    replace: "↔"
+  - triggers: ["updown*", "updown'", "updown@", "updw*", "updw'", "updw@"]
+    replace: "↕"
+  - triggers: ["upri*", "upri'", "upri@"]
+    replace: "↗"
+  - triggers: ["uple*", "uple'", "uple@"]
+    replace: "↖"
+  - triggers: ["dwri*", "dwri'", "dwri@"]
+    replace: "↘"
+  - triggers: ["dwle*", "dwle'", "dwle@"]
+    replace: "↙"
+  - triggers: ["=>*", "=>'", "=>@"]
+    replace: "⇒"
+  - triggers: ["<=*", "<='", "<=@"]
+    replace: "⇔"
+  - triggers: ["=v*", "=v'", "=v@"]
+    replace: "⇕"
+  - triggers: ["che*", "che'", "che@"]
+    replace: "🗸"
+  - triggers: ["xma*", "xma'", "xma@"]
+    replace: "✗"
+  - triggers: ["square*", "square'", "square@"]
+    replace: "⧠"
+  - triggers: ["circle.small*", "circle.small'", "circle.small@"]
+    replace: "○"
+  - triggers: ["circle*", "circle'", "circle@"]
+    replace: "◯"
+  - triggers: ["triangle*", "triangle'", "triangle@", "tri*", "tri'", "tri@"]
+    replace: "△"
+  - triggers: ["**", "*'", "*@",]
+    replace: "⋅"
+  - triggers: ["dotp*", "dotp'", "dotp@"]
+    replace: "⦁"
+  - triggers: ["sM*", "sM'", "sM@"]
+    replace: "ᴍ"
+  - triggers: ["star*", "star'", "star@"]
+    replace: "☆"
+
+
+
+  - triggers: ["dg*", "dg'", "dg@"]
+    replace: "°"
+  - triggers: ["sq*", "sq'", "sq@"]
+    replace: "√"
+  - triggers: ["3sq*", "3sq'", "3sq@"]
+    replace: "∛"
+  - triggers: ["4sq*", "4sq'", "4sq@"]
+    replace: "∜"
+  - triggers: ["inf*", "inf'", "inf@"]
+    replace: "∞"
+  - triggers: ["=/=*", "=/='", "=/=@", "=/*", "=/'", "=/@", "neq*", "neq'", "neq@"]
+    replace: "≠"
+  - triggers: ["prp*", "prp'", "prp@"]
+    replace: "∝"
+  - triggers: ["aeq*", "aeq'", "aeq@"]
+    replace: "≈"
+  - triggers: ["leq*", "leq'", "leq@"]
+    replace: "≤"
+  - triggers: ["meq*", "meq'", "meq@"]
+    replace: "≥"
+  - triggers: ["int*", "int'", "int@"]
+    replace: "∫"
+  - triggers: ["pm*", "pm'", "pm@", "plusminus*", "plusminus'", "plusminus@", "+-*", "+-'", "+-@"]
+    replace: "±"
+  - triggers: ["^#.*", "^#.'", "^#.@"]
+    replace: "send ^."
+  - triggers: ["^.*", "^.'", "^.@"]
+    replace: "Send *"
+  - triggers: ["*x*", "*x'", "*x@", "*X*", "*X'", "*X@", "x**", "x*'", "x*@", "X**", "X*'", "X*@"]
+    replace: "×"
+  - triggers: ["par*", "par'", "par@"]
+    replace: "∥"
+  - triggers: ["ortho*", "ortho'", "ortho@"]
+    replace: "⊥"
+  - triggers: ["wo*", "wo'", "wo@"]
+    replace: "∖"
+  - triggers: ["pd*", "pd'", "pd@"]
+    replace: "∂"
+  - triggers: ["na*", "na'", "na@"]
+    replace: "∇"
+  
+  - triggers: ["nin*", "nin'", "nin@"]
+    replace: "∉"
+  - triggers: ["ex*", "ex'", "ex@"]
+    replace: "∃"
+  - triggers: ["nex*", "nex'", "nex@"]
+    replace: "∄"
+  - triggers: ["all*", "all'", "all@"]
+    replace: "∀"
+  - triggers: ["ss*", "ss'", "ss@"]
+    replace: "⊆"
+
+    
+
+  - triggers: ["al*", "al'", "al@"]
+    replace: "α"
+  - triggers: ["be*", "be'", "be@"]
+    replace: "β"
+  - triggers: ["gam*", "gam'", "gam@"]
+    replace: "γ"
+  - triggers: ["Gam*", "Gam'", "Gam@"]
+    replace: "Γ"
+  - triggers: ["de*", "de'", "de@"]
+    replace: "δ"
+  - triggers: ["De*", "De'", "De@"]
+    replace: "Δ"
+  - triggers: ["ep*", "ep'", "ep@"]
+    replace: "ε"
+  - triggers: ["Ep*", "Ep'", "Ep@"]
+    replace: "Ε"
+  - triggers: ["la*", "la'", "la@"]
+    replace: "λ"
+  - triggers: ["La*", "La'", "La@"]
+    replace: "Λ"
+  - triggers: ["my*", "my'", "my@"]
+    replace: "μ"
+  - triggers: ["si*", "si'", "si@"]
+    replace: "σ"
+  - triggers: ["Si*", "Si'", "Si@"]
+    replace: "Σ"
+  - triggers: ["ro*", "ro'", "ro@"]
+    replace: "ρ"
+  - triggers: ["om*", "om'", "om@"]
+    replace: "ω"
+  - triggers: ["Om*", "Om'", "Om@"]
+    replace: "Ω"
+
+  - triggers: ["sus*", "sus'", "sus@"]
+    replace: "ඞ"
+  - triggers: ["rht*", "rht'", "rht@"]
+    replace: "❤️"
+  - triggers: ["ht*", "ht'", "h@"]
+    replace: "♡"
+  - triggers: ["fht*", "fht'", "ft@"]
+    replace: "♥"
+  - triggers: ["lline*", "lline'", "lline@", "--'", "--*", "--@"]
+    replace: "―"
+  - triggers: ["ng*", "ng'", "ng@"]
+    replace: "ŋ"
+  - triggers: ["NG*", "NG'", "NG@"]
+    replace: "Ŋ"    
+  - triggers: ["!?*", "!?'", "!?@","?!*", "?!'", "?!@"]
+    replace: "‽"  
+    
+
+
+    
+
+
+    
